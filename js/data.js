@@ -111,10 +111,12 @@ function buildTable(arr) {
 	var dataTable = '<thead><tr><th>' + capitalizeFirstLetter(arr.name) + '</th><th>' + capitalizeFirstLetter(arr.group) + '</th></tr></thead><tbody>';
 	for(i = 0; i < arr.anime.length; ++i) {
 		dataTable += '<tr>';
-		dataTable += '<td><div class="btn-group"><button onclick="copyToClipboard(\'' + encodeURIComponent(arr.anime[i].name) +'\')" class="btn btn-default" type="button" >' + arr.anime[i].name + '</button>';
-		dataTable += '<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="caret"></span></button>';
+		dataTable += '<td><div class="btn-group"><button onclick="copyToClipboard(\'' + arr.anime[i].name +'\')" class="btn btn-default" type="button" >' + arr.anime[i].name + '</button>';
+		dataTable += '<button type="button" onclick="infoHummingbird(\'' + arr.anime[i].name +'\')" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="caret"></span></button>';
 		dataTable += '<ul class="dropdown-menu" role="menu" aria-labelledby="picture">';
 		dataTable += '<li role="presentation"><img src="' + arr.anime[i].image + '"></li>';
+		dataTable += '<li role="separator" class="divider"></li>';
+		dataTable += '<li role="presentation" id="info"></li>'
 		dataTable += '</ul></div></td>';
 
 		//console.log("end of loading anime " + i + "\n");
@@ -147,4 +149,28 @@ function buildTable(arr) {
 	dataTable += '</tbody>';
 
 	writeDataInnerHtml('tableAnime', dataTable);
+}
+
+function infoHummingbird(anime) {
+	var req = new XMLHttpRequest();
+	console.log('Loading data…');
+	req.open('GET', "https://hummingbird.me/api/v1/search/anime?query=" + anime, true); //true for asynchronous
+
+	req.onreadystatechange = function () {
+		if (req.readyState == 4) { //4 == XMLHttpRequest.DONE ie8+
+			if((req.status == 200) || (req.status == 304)) {
+				var objJson = JSON.parse(req.responseText);
+				addInfo(objJson);
+			}
+		}
+	};
+	req.send(null);
+}
+
+function addInfo(arr) {
+	removeTag('info');
+	var dataInfo = '';
+	dataInfo += '<li><a href="' + arr[0].started_airing + '" title="' + arr[0].started_airing + '">' + capitalizeFirstLetter(arr[0].slug) + '</a></li>';
+
+	writeDataInnerHtml('info', dataInfo);
 }
