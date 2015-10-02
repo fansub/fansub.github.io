@@ -111,8 +111,8 @@ function buildTable(arr) {
 	var dataTable = '<thead><tr><th>' + capitalizeFirstLetter(arr.name) + '</th><th>' + capitalizeFirstLetter(arr.group) + '</th></tr></thead><tbody>';
 	for(i = 0; i < arr.anime.length; ++i) {
 		dataTable += '<tr>';
-		dataTable += '<td><div class="btn-group"><button onclick="copyToClipboard(\'' + arr.anime[i].name +'\')" class="btn btn-default" type="button" >' + arr.anime[i].name + '</button>';
-		dataTable += '<button type="button" onclick="infoHummingbird(\'' + arr.anime[i].name +'\')" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="caret"></span></button>';
+		dataTable += '<td><div class="btn-group"><button onclick="copyToClipboard(\'' + encodeURIComponent(arr.anime[i].name) +'\')" class="btn btn-default" type="button" >' + arr.anime[i].name + '</button>';
+		dataTable += '<button type="button" onclick="callHummingbirdAPI(\'' + encodeURIComponent(arr.anime[i].name) +'\')" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="caret"></span></button>';
 		dataTable += '<ul class="dropdown-menu" role="menu" aria-labelledby="picture">';
 		dataTable += '<li role="presentation"><img src="' + arr.anime[i].image + '"></li>';
 		dataTable += '<li role="separator" class="divider"></li>';
@@ -151,7 +151,7 @@ function buildTable(arr) {
 	writeDataInnerHtml('tableAnime', dataTable);
 }
 
-function infoHummingbird(anime) {
+function callHummingbirdAPI(anime) {
 	var req = new XMLHttpRequest();
 	console.log('Loading data…');
 	req.open('GET', "https://hummingbird.me/api/v1/search/anime?query=" + anime, true); //true for asynchronous
