@@ -24,7 +24,7 @@ No problem, do a pull request :)
 They have an objects table. The object contains each value (lang/year/season) and their url.
 
 ####The json file of the season animes
-is located under `:lang/:year/:season.json`. (eg. [`fr/2014/automne_TV.json`](fr/2014/automne_TV.json))
+is located under `:lang/:year/:season.json`. (eg. [`fr/2014/automne.json`](fr/2014/automne.json))
 
 It's a unique object which contains three attributs: 
 * the *name*: Its value is its translation; **required** ; it's my `<th>` of my table
@@ -41,52 +41,37 @@ It's a unique object which contains three attributs:
 #####Simple example of a JSON file
 ```
 {
-    "name": "name",
-    "group": "fansub group",
-    "anime": [
-        {
-            "name": "Anime A",
-            "image": "URL from MAL of the Anime A",
-            "group": [
-                {
-                    "status": "release",
-                    "detail": [
-                        {
-                            "name": "SUBS 1",
-                            "url": "URL of the SUBS 1"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Anime B",
-            "image": "URL from MAL of the Anime B",
-            "group": [
-                {
-                    "status": "simulcast",
-                    "detail": [
-                        {
-                            "name": "simulcast 2",
-                            "url": "URL of the simulcast 2"
-                        }
-                    ]
-                },
-                {
-                    "status": "dropped",
-                    "detail": [
-                        {
-                            "name": "fansub drop 1"
-                        },
-                        {
-                            "name": "fansub drop 2 in co-subbing with fansub drop 1",
-                            "url": "and its URL"
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+	"name":"name",
+	"group":"fansub group",
+	"anime":[{
+			"name":"Anime A",
+			"image":"URL from MAL of the Anime A",
+			"group":[{
+				"status":"release",
+				"detail":[{
+					"name":"SUBS 1",
+					"url":"URL of the SUBS 1"
+				}]
+			}]
+	},{
+		"name":"Anime B",
+		"image":"URL from MAL of the Anime B",
+		"group":[{
+			"status":"simulcast",
+			"detail":[{
+				"name":"simulcast 2",
+				"url":"URL of the simulcast 2"
+			}]
+		},{
+			"status":"dropped",
+			"detail":[{
+				"name":"fansub drop 1"
+			},{
+				"name":"fansub drop 2 in co-subbing with fansub drop 1",
+				"url":"and its URL"
+			}]
+		}]
+	}]
 }
 ```
 
