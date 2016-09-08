@@ -212,7 +212,7 @@ function buildPage(arr, type) {
 			dataTable += '<td><div class="btn-group"><button onclick="copyToClipboard(\'' + encodeText(array[i].name) +'\')" class="btn btn-default" type="button" >' + array[i].name + '</button>';
 			dataTable += '<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="caret"></span></button>';
 			dataTable += '<ul class="dropdown-menu" role="menu" aria-labelledby="picture">';
-			dataTable += '<li role="presentation"><img src="' + array[i].image + '" onerror="cantLoadImage(this, \'' + encodeText(array[i].name) + '\')" ></li>';
+			dataTable += '<li role="presentation"><img src="https://myanimelist.cdn-dena.com/images/anime/' + array[i].image + '" onerror="cantLoadImage(this, \'' + encodeText(array[i].name) + '\')" ></li>';
 			dataTable += '</ul></div></td>';
 
 			dataTable += '<td>';
