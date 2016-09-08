@@ -1,0 +1,79 @@
+{
+	"name": "name",
+	"group": "group",
+	"message": "This list is empty. <br>Feel free to contribute.",
+	"lbl_tv": "TV",
+	"lbl_ova": "OVA/ONA/Special",
+	"lbl_movie": "Films",
+	"tv": [{
+		"name": "Angel Beats!",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Alephnaught Subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Generation NeXt"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Mazui"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "SFW-Mochi"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Static-Subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Tortoise-Commie"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "UTW"
+			}]
+		}]
+	}, {
+		"name": "Arakawa under the Bridge",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Formula"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Kesenai Subtitles"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "KRAFT"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Mango Subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Nutbladder"
+			}]
+		}]
+	}],
+	"ova": [],
+	"movie": []
+}
