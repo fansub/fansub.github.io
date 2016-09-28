@@ -1,0 +1,383 @@
+{
+	"name": "name",
+	"group": "group",
+	"message": "This list is empty.<br>Feel free to contribute.",
+	"lbl_tv": "TV",
+	"lbl_ova": "OVA/ONA/Special",
+	"lbl_movie": "Movies",
+	"tv": [{
+		"name": "Amagami SS",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "ANBU-Formula"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Chihiro"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "Eclipse"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "God-Speed Subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "UTW"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Voz~Subs"
+			}]
+		}]
+	}, {
+		"name": "Densetsu no Yuusha no Densetsu",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Commie"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Darksoul-Subs"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "Derp"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "EnigmaCollective"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Taka"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "FUNimation"
+			}]
+		}]
+	}, {
+		"name": "Gakuen Mokushiroku: Highschool of the Dead",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "aRK"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "Coalguys"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "Commie"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "gg"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Hatsuyuki"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "The Anime Network"
+			}]
+		}]
+	}, {
+		"name": "Kuroshitsuji II",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Commie"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Mango"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Shinsen-Subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "SubDESU"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "TastyMelon"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "FUNimation"
+			}]
+		}]
+	}, {
+		"name": "Mitsudomoe",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "E-kun"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "FFFpeeps"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "RaveSubs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "SubDESU"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll"
+			}]
+		}]
+	}, {
+		"name": "Nurarihyon no Mago",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Commie"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Darksoul-Subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Phuzy"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "SubDESU"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "WhyNot"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Viz Media"
+			}]
+		}]
+	}, {
+		"name": "Ookami-san to Shichinin no Nakama-tachi",
+		"image": "",
+		"group": [{
+			"status": "dropped",
+			"detail": [{
+				"name": "Coalgirls"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Hasak"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "HQ-Team"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Mazui"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "FUNimation"
+			}]
+		}]
+	}, {
+		"name": "Seikimatsu Occult Gakuin",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Commie"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Crunchier"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "GotWoot"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Pakuru"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll"
+			}]
+		}]
+	}, {
+		"name": "Seitokai Yakuindomo",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Ayako"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Doki"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "God-Speed Subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Ryuumaru"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Team Zebraman"
+			}]
+		}]
+	}, {
+		"name": "Sekirei: Pure Engagement",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Chihiro"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Darksoul-Subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Fubuki"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "GX_ST"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "Hatsuyuki"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Ryuumaru"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "FUNimation"
+			}]
+		}]
+	}, {
+		"name": "Shukufuku no Campanella",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Commie"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Doki"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "God-Speed Subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Kira-Fansub"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "toayuku"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "FUNimation"
+			}]
+		}]
+	}, {
+		"name": "Stitch!: Zutto Saikou no Tomodachi",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Tono to Issho: Ippunkan Gekijou",
+		"image": "",
+		"group": [{
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll"
+			}]
+		}]
+	}],
+	"ova": [],
+	"movie": []
+}
