@@ -40,6 +40,51 @@
 			}]
 		}]
 	}, {
+		"name": "Asobi ni Iku yo!",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Ayako"
+			}, {
+				"name": "SubDESU"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Commie"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Doki"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "TZM"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll"
+			}]
+		}]
+	}, {
+		"name": "Cat Shit One",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Commie"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Pretentious"
+			}]
+		}]
+	}, {
 		"name": "Densetsu no Yuusha no Densetsu",
 		"image": "",
 		"group": [{
@@ -74,6 +119,27 @@
 			}]
 		}]
 	}, {
+		"name": "Digimon Xros Wars",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "MADAOmon"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Online Digimon"
+			}, {
+				"name": "WolfPackProductions"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Ryuu-Rogue"
+			}]
+		}]
+	}, {
 		"name": "Gakuen Mokushiroku: Highschool of the Dead",
 		"image": "",
 		"group": [{
@@ -105,6 +171,20 @@
 			"status": "simulcast",
 			"detail": [{
 				"name": "The Anime Network"
+			}]
+		}]
+	}, {
+		"name": "Kaichuu!",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "4L"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "DATS"
 			}]
 		}]
 	}, {
@@ -168,6 +248,24 @@
 			"status": "simulcast",
 			"detail": [{
 				"name": "Crunchyroll"
+			}]
+		}]
+	}, {
+		"name": "Mokei Senshi Gunpla Builders Beginning G",
+		"image": "",
+		"group": [{
+			"status": "planned",
+			"detail": [{
+				"name": "Coron"
+			}]
+		}]
+	}, {
+		"name": "MonHun Nikki Girigiri Airou Mura: Airou Kiki Ippatsu",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "darkcloud"
 			}]
 		}]
 	}, {
@@ -331,6 +429,84 @@
 			}]
 		}]
 	}, {
+		"name": "Sengoku Basara Ni",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Commie"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Darksoul-Subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Inochi"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "KSH"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Senbei"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "FUNimation"
+			}]
+		}]
+	}, {
+		"name": "Shiki",
+		"image": "",
+		"group": [{
+			"status": "dropped",
+			"detail": [{
+				"name": "Chihiro"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Commie"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Fubuki"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Okawari"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Taka"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "umee"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "WhyNot"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "FUNimation"
+			}]
+		}]
+	}, {
 		"name": "Shukufuku no Campanella",
 		"image": "",
 		"group": [{
@@ -368,6 +544,25 @@
 		"name": "Stitch!: Zutto Saikou no Tomodachi",
 		"image": "",
 		"group": []
+	}, {
+		"name": "Strike Witches 2",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Coalgirls"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Underwater"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll"
+			}]
+		}]
 	}, {
 		"name": "Tono to Issho: Ippunkan Gekijou",
 		"image": "",
