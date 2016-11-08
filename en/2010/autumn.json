@@ -1,0 +1,594 @@
+{
+	"name": "name",
+	"group": "group",
+	"message": "This list is empty.<br>Feel free to contribute.",
+	"lbl_tv": "TV",
+	"lbl_ova": "OVA/ONA/Special",
+	"lbl_movie": "Movies",
+	"tv": [{
+		"name": " Arakawa Under the Bridge 2",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Nutbladder"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Ruri Subs"
+			}]
+		}]
+	}, {
+		"name": "Bakuman",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Anime-Destiny"
+			}, {
+				"name": "Tomodachi"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Ayako"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Inochi"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "SubDESU"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "gg"
+			}]
+		}]
+	}, {
+		"name": "Battle Spirits Brave",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": " Aesir  "
+			}]
+		}]
+	}, {
+		"name": "Hetalia: Axis Powers",
+		"image": "",
+		"group": []
+	}, {
+		"name": " Hakuouki: Hekketsu-roku",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Dattebayo"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Ruri Subs"
+			}]
+		}]
+	}, {
+		"name": "Iron Man",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Force-Works"
+			}]
+		}]
+	}, {
+		"name": "Hyakka Ryouran: Samurai Girls",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Darksoul-subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Hatsuyuki"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Himatsubushi"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Hiryuu"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "GX_ST"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Okawari"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Ryuumaru"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "TZM"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "The Anime Network"
+			}]
+		}]
+	}, {
+		"name": "Katanagatari",
+		"image": "",
+		"group": [{
+			"status": "planned",
+			"detail": [{
+				"name": "CoalGirls"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Mazui"
+			}]
+		}]
+	}, {
+		"name": "MM!",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": " Ayako-Delight"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Hatsuyuki"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "m.3.3.w"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Phantom-Subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Ryuumaru"
+			}]
+		}]
+	}, {
+		"name": "Miyanishi Tatsuya Gekijou: Omae Umasou da na",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Animanda"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Atelier-Thryst"
+			}]
+		}]
+	}, {
+		"name": " Motto To LOVE-Ru",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Chihiro"
+			}, {
+				"name": "Doki"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Commie"
+			}]
+		}]
+	}, {
+		"name": "Otome Youkai Zakuro",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Baaka"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Commie"
+			}, {
+				"name": "WhyNot"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Mango"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "ReinWeiss"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Ryuumaru"
+			}, {
+				"name": "Underwater"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll "
+			}]
+		}]
+	}, {
+		"name": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Doki"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Himatsubushi"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Mazui"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Shimizu"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Static-Subs"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Anime News Network"
+			}]
+		}]
+	}, {
+		"name": "Panty & Stocking with Garterbelt",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Baaka"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "CMS"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Tomodachi-m.3.3.w"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Underwater"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll"
+			}]
+		}]
+	}, {
+		"name": "Pocket Monsters: Best Wishes",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": " Best Wishes Subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Generation neXt"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Rocket Gang"
+			}]
+		}]
+	}, {
+		"name": "Shinrei Tantei Yakumo",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "AnimeONE"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Darksoul-subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "FFFpeeps"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "gg"
+			}]
+		}, {
+			"status": "planned",
+			"detail": [{
+				"name": "Kindaichi Academy Workz"
+			}, {
+				"name": "Phantom-Subs"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "Nordkohl"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "Ryugan"
+			}]
+		}]
+	}, {
+		"name": "Shinryaku! Ika Musume",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Commie"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "EMO"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "FFFpeeps"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Underwater"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "WhyNot"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll "
+			}]
+		}]
+	}, {
+		"name": "Sora no Otoshimono: Forte",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Baaka"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Nekomimi"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "SleazySubs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "SubDesu"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": " Crunchyroll  "
+			}]
+		}]
+	}, {
+		"name": "Star Driver: Kagayaki no Takuto",
+		"image": "",
+		"group": [{
+			"status": "dropped",
+			"detail": [{
+				"name": "CoalGirls"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Darksoul-Subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "gg"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Timeless-subs"
+			}]
+		}]
+	}, {
+		"name": "Super Robot Taisen OG: The Inspector",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "ReinWeiss"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Ryugan Fansubs"
+			}, {
+				"name": "Seiippai Fansubs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "ShinRyuu"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "SleazySubs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "TORTUGA"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": " Crunchyroll  "
+			}]
+		}]
+	}, {
+		"name": "Tachumaru Gekijou",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Tegami Bachi Reverse",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": " Baaka"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Deep"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Mochi"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Ruri"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "SleazySubs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Tamashii"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "WhyNot"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll"
+			}]
+		}]
+	}, {
+		"name": "Yosuga no Sora",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Hatsuyuki"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Nuke"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Okawari"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "pwq"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "UTW-Ryuumaru"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "WhyNot"
+			}]
+		}]
+	}, {
+		"name": "Yume-iro Patissiere SP Professional",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": " Wasurenai"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll "
+			}]
+		}]
+	}],
+	"ova": [],
+	"movie": []
+}
