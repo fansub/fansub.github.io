@@ -6,7 +6,23 @@
 	"lbl_ova": "OVA/ONA/Special",
 	"lbl_movie": "Movies",
 	"tv": [{
-		"name": " Arakawa Under the Bridge 2",
+		"name": "Agriculture Girl!",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "DATS"
+			}, {
+				"name": "Zero's Fansubs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Yoroshiku"
+			}]
+		}]
+	}, {
+		"name": "Arakawa Under the Bridge 2",
 		"image": "",
 		"group": [{
 			"status": "release",
@@ -56,7 +72,41 @@
 		"group": [{
 			"status": "release",
 			"detail": [{
-				"name": " Aesir  "
+				"name": "Aesir"
+			}]
+		}]
+	}, {
+		"name": "Fortune Arterial: Akai Yakusoku",
+		"image": "",
+		"group": [{
+			"status": "dropped",
+			"detail": [{
+				"name": "Arterial"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Chihiro"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "SGKK"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Static-Subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "SubDesu"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll"
 			}]
 		}]
 	}, {
@@ -64,7 +114,7 @@
 		"image": "",
 		"group": []
 	}, {
-		"name": " Hakuouki: Hekketsu-roku",
+		"name": "Hakuouki: Hekketsu-roku",
 		"image": "",
 		"group": [{
 			"status": "release",
@@ -84,6 +134,20 @@
 			"status": "release",
 			"detail": [{
 				"name": "Force-Works"
+			}]
+		}]
+	}, {
+		"name": "Hidamari Sketch × ☆ ☆ ☆ Special",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Anonymous"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Nutbladder"
 			}]
 		}]
 	}, {
@@ -136,17 +200,102 @@
 			}]
 		}]
 	}, {
-		"name": "Katanagatari",
+		"name": "Ichi-go ichi-e ~Kimino Kotoba~",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Kakko Kawaii Sengen",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Kami nomi zo Shiru Sekai",
 		"image": "",
 		"group": [{
-			"status": "planned",
+			"status": "release",
 			"detail": [{
-				"name": "CoalGirls"
+				"name": "AnCo^2"
 			}]
 		}, {
 			"status": "release",
 			"detail": [{
+				"name": "Chihiro"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "CMS"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Commie"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Deep"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "ExSSubs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "SubDesu"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "TZM"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "WhyNot"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Yamiyo"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll"
+			}]
+		}]
+	}, {
+		"name": "Karl to Fushigi na Tou",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Katanagatari",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
 				"name": "Mazui"
+			}]
+		}]
+	}, {
+		"name": "Kuragehime",
+		"image": "",
+		"group": [{
+			"status": "dropped",
+			"detail": [{
+				"name": "gg"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "umee"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "FUNimation"
 			}]
 		}]
 	}, {
@@ -155,7 +304,7 @@
 		"group": [{
 			"status": "release",
 			"detail": [{
-				"name": " Ayako-Delight"
+				"name": "Ayako-Delight"
 			}]
 		}, {
 			"status": "release",
@@ -193,7 +342,41 @@
 			}]
 		}]
 	}, {
-		"name": " Motto To LOVE-Ru",
+		"name": "Mobile Suit Gundam Unicorn",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Animeload"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "BSS"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Coalgirls"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "ROC"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "THORA"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "The PlayStation Network"
+			}]
+		}]
+	}, {
+		"name": "Motto To LOVE-Ru",
 		"image": "",
 		"group": [{
 			"status": "release",
@@ -243,7 +426,7 @@
 		}, {
 			"status": "simulcast",
 			"detail": [{
-				"name": "Crunchyroll "
+				"name": "Crunchyroll"
 			}]
 		}]
 	}, {
@@ -296,7 +479,9 @@
 		}, {
 			"status": "release",
 			"detail": [{
-				"name": "Tomodachi-m.3.3.w"
+				"name": "m.3.3.w"
+			}, {
+				"name": "Tomodachi"
 			}]
 		}, {
 			"status": "release",
@@ -315,7 +500,7 @@
 		"group": [{
 			"status": "release",
 			"detail": [{
-				"name": " Best Wishes Subs"
+				"name": "Best Wishes Subs"
 			}]
 		}, {
 			"status": "release",
@@ -326,6 +511,19 @@
 			"status": "release",
 			"detail": [{
 				"name": "Rocket Gang"
+			}]
+		}]
+	}, {
+		"name": "Rita et Machin",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Robin With His 100 Friends",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "DATS"
 			}]
 		}]
 	}, {
@@ -400,7 +598,7 @@
 		}, {
 			"status": "simulcast",
 			"detail": [{
-				"name": "Crunchyroll "
+				"name": "Crunchyroll"
 			}]
 		}]
 	}, {
@@ -429,7 +627,21 @@
 		}, {
 			"status": "simulcast",
 			"detail": [{
-				"name": " Crunchyroll  "
+				"name": " Crunchyroll "
+			}]
+		}]
+	}, {
+		"name": "Soredemo Machi wa Mawatteiru",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Furukawa"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "gg"
 			}]
 		}]
 	}, {
@@ -489,7 +701,7 @@
 		}, {
 			"status": "simulcast",
 			"detail": [{
-				"name": " Crunchyroll  "
+				"name": "Crunchyroll "
 			}]
 		}]
 	}, {
@@ -497,12 +709,31 @@
 		"image": "",
 		"group": []
 	}, {
+		"name": "Tantei Opera Milky Holmes",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Baaka"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "KiteSeekers-Wasurenai"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll"
+			}]
+		}]
+	}, {
 		"name": "Tegami Bachi Reverse",
 		"image": "",
 		"group": [{
 			"status": "release",
 			"detail": [{
-				"name": " Baaka"
+				"name": "Baaka"
 			}]
 		}, {
 			"status": "release",
@@ -538,6 +769,44 @@
 			"status": "simulcast",
 			"detail": [{
 				"name": "Crunchyroll"
+			}]
+		}]
+	}, {
+		"name": "Toaru Majutsu no Index II",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Ayako"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Hatsuyuki"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "UTW-Mazui"
+			}]
+		}]
+	}, {
+		"name": "Togainu no Chi",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Freeze-subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "gg"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Anime News Network"
 			}]
 		}]
 	}, {
@@ -580,14 +849,18 @@
 		"group": [{
 			"status": "release",
 			"detail": [{
-				"name": " Wasurenai"
+				"name": "Wasurenai"
 			}]
 		}, {
 			"status": "simulcast",
 			"detail": [{
-				"name": "Crunchyroll "
+				"name": "Crunchyroll"
 			}]
 		}]
+	}, {
+		"name": "Yume-Miru Anime on-chan Season 2",
+		"image": "",
+		"group": []
 	}],
 	"ova": [],
 	"movie": []
