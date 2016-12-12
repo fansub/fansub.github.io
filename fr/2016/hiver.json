@@ -5,7 +5,195 @@
 	"lbl_tv": "TV",
 	"lbl_ova": "OAV/ONA/Spéciaux",
 	"lbl_movie": "Films",
-	"tv": [],
+	"tv": [{
+		"name": "ACCA 13-ku Kansatsu-ka",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Ai Mai Mii: Surgical Friends",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Akiba&apos;s Trip: The Animation",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Ao no Exorcist: Kyoto Fujouou-hen",
+		"image": "",
+		"group": []
+	}, {
+		"name": "BanG Dream!",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Chain Chronicle: Haecceitas no Hikari",
+		"image": "",
+		"group": []
+	}, {
+		"name": "ChäoS;Child",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Chiruran: Nibun no Ichi",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Chou Shounen Tanteidan NEO",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Demi-chan wa Kataritai",
+		"image": "",
+		"group": []
+	}, {
+		"name": "ēlDLIVE",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Fate/Grand Order: First Order",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Fuuka",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Gabriel Dropout",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Gan Gan Ganko-chan",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Gintama.",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Granblue Fantasy the Animation",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Hand Shakers",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Idol Jihen",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Kemono Friends",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Kirakira☆Precure À La Mode",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Kobayashi-san Chi no Maid Dragon",
+		"image": "",
+		"group": []
+	}, {
+		"name": "KochinPa! Dainiki",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Kuzu no Honkai",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Little Witch Academia (TV)",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Marginal#4 Kiss Kara Tsukuru Big Bang",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Masamune-kun no Revenge",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Minami Kamakura Koukou Joshi Jitensha-Bu",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Nananin no Ayakashi: Chimi Chimi Mouryou!! Gendai Monogatari",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Nyanko Days",
+		"image": "",
+		"group": []
+	}, {
+		"name": "One Room",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Onihei",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Osomatsu-san Ouma de Kobanashi",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Piace: Watashi no Italian",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Reikenzan: Eichi e no Shikaku",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Rewrite 2nd Season: Moon-hen / Terra-hen",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Schoolgirl Strikers: Animation Channel",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Seiren",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Sentai Heroes Sukiyaki Force: Gunma no Heiwa o Negau Season",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Super Lovers 2nd Season",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Tales of Zestiria the X 2nd Season",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Urara Meirochou",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Yami Shibai 4th Season",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Youjo Senki",
+		"image": "",
+		"group": []
+	}, {
+		"name": "Yowamushi Pedal: New Generation",
+		"image": "",
+		"group": []
+	}],
 	"ova": [],
 	"movie": []
 }
