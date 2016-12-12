@@ -20,7 +20,17 @@
 	}, {
 		"name": "Ao no Exorcist: Kyoto Fujouou-hen",
 		"image": "",
-		"group": []
+		"group": [{
+			"status": "simulcast",
+			"detail": [{
+				"name": "Anime Digital Network"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Wakanim"
+			}]
+		}]
 	}, {
 		"name": "BanG Dream!",
 		"image": "",
@@ -48,7 +58,12 @@
 	}, {
 		"name": "ēlDLIVE",
 		"image": "",
-		"group": []
+		"group": [{
+			"status": "simulcast",
+			"detail": [{
+				"name": "Anime Digital Network"
+			}]
+		}]
 	}, {
 		"name": "Fate/Grand Order: First Order",
 		"image": "",
@@ -168,7 +183,12 @@
 	}, {
 		"name": "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
 		"image": "",
-		"group": []
+		"group": [{
+			"status": "simulcast",
+			"detail": [{
+				"name": "Anime Digital Network"
+			}]
+		}]
 	}, {
 		"name": "Super Lovers 2nd Season",
 		"image": "",
@@ -176,7 +196,12 @@
 	}, {
 		"name": "Tales of Zestiria the X 2nd Season",
 		"image": "",
-		"group": []
+		"group": [{
+			"status": "simulcast",
+			"detail": [{
+				"name": "Anime Digital Network"
+			}]
+		}]
 	}, {
 		"name": "Urara Meirochou",
 		"image": "",
