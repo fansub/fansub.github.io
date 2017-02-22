@@ -5,7 +5,605 @@
 	"lbl_tv": "TV",
 	"lbl_ova": "OVA/ONA/Special",
 	"lbl_movie": "Movies",
-	"tv": [],
+	"tv": [{
+		"name": "Beelzebub",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "ColorMeSubbed"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Darksoul-subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Hebi"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "SGKK-Tomodachi"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll"
+			}]
+		}]
+	}, {
+		"name": "Cardfight!! Vanguard",
+		"image": "",
+		"group": [{
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll"
+			}]
+		}]
+	}, {
+		"name": "Dragon Crisis!",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Coalgirls"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Commie"
+			}, {
+				"name": "Underwater"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Ruri Subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "WhyNot"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll"
+			}]
+		}]
+	}, {
+		"name": "Fractale noitaminA Block",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Coalgirls"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "GarSubs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Kaimu"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "ShinBunBu-Subs"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "umee"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "UTW"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "FUNimation"
+			}]
+		}]
+	}, {
+		"name": "Freezing",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Hatsuyuki"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Hiryuu"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "Whine-Subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "WhyNot"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "FUNimation"
+			}]
+		}]
+	}, {
+		"name": "Gosick",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "ACT-SUB"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Darksoul-Subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Derp-subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Hatsuyuki-Tsuki"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Static-Subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Tokimeki-Subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Victorique"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll"
+			}]
+		}]
+	}, {
+		"name": "Haiyoru! Nyaruani: Remember My Love(craft-sensei)",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Ahodomo"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "AnimeONE"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Underwater"
+			}]
+		}]
+	}, {
+		"name": "Hokago no Pleiades",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Ayako-Himatsubushi"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Commie"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "EveTaku"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Nutbladder"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Gainax"
+			}]
+		}]
+	}, {
+		"name": "Hokuto no Ken DD",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Hokuto no Gun"
+			}]
+		}]
+	}, {
+		"name": "Hourou Musuko",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "ANBU"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Caffin"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "CMS"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "ReinWeiss"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "umee"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll"
+			}]
+		}]
+	}, {
+		"name": "IS: Infinite Stratos",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Ayako"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "HiNA-Subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "HQ-Team"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Rumbel-Ryugan"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Shini-subs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Static-Subs"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "Whine-Subs"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "The Anime Network"
+			}]
+		}]
+	}, {
+		"name": "Katanagatari",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Mazui"
+			}]
+		}]
+	}, {
+		"name": "Kimi ni Todoke 2nd Season",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Eclipse"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "FreeMoneySubs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "gg"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "m.3.3.w"
+			}]
+		}]
+	}, {
+		"name": "Kore wa Zombie desuka?",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Ayako"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Commie"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Doki"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Hatsuyuki"
+			}, {
+				"name": "TMD"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll"
+			}]
+		}]
+	}, {
+		"name": "Level E",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Baka"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Commie"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Crunchier"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Crustyroll"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Kakekkane"
+			}]
+		}, {
+			"status": "dropped",
+			"detail": [{
+				"name": "Red-Faction"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "WhyNot"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll"
+			}]
+		}]
+	}, {
+		"name": "Mahou Shoujo Madoka Magika",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Chihiro"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "gg"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "MahouShoujo+yesy"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Nutbladder"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "ReinWeiss"
+			}]
+		}]
+	}, {
+		"name": "Mai no Mahou to Katei no Hi",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": []
+		}]
+	}, {
+		"name": "Mitsudomoe Zouryouchuu! 2nd Season",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Ayako-m.3.3.w"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "FFFpeeps"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Hadena"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Shini-subs"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll"
+			}]
+		}]
+	}, {
+		"name": "Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!!",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Ayako-Shikkaku"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "GotWoot"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "KiteSeekers-Wasurenai"
+			}]
+		}]
+	}, {
+		"name": "Rio -Rainbow Gate!-",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "KiteSeekers"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Kyouki"
+			}]
+		}, {
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll"
+			}]
+		}]
+	}, {
+		"name": "Starry☆Sky",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Hadena"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "ReTouched"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Strawberry Mint Subs"
+			}]
+		}]
+	}, {
+		"name": "Suite Precure",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Doremi-CureCom"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Nutbladder"
+			}]
+		}]
+	}, {
+		"name": "Yumekui Merry",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Ayako"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "gg"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Interrobang"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "Shini-subs"
+			}]
+		}, {
+			"status": "simulcast uncertain",
+			"detail": [{
+				"name": "The Anime Network"
+			}]
+		}]
+	}, {
+		"name": "Wolverine",
+		"image": "",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Weapon+"
+			}]
+		}]
+	}],
 	"ova": [],
 	"movie": []
 }
