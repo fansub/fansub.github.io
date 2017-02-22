@@ -40,14 +40,19 @@
 				"name": "Inochi"
 			}]
 		}, {
-			"status": "release",
-			"detail": [{
-				"name": "SubDESU"
-			}]
-		}, {
 			"status": "dropped",
 			"detail": [{
 				"name": "gg"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "GuessSubs"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
+				"name": "SubDESU"
 			}]
 		}]
 	}, {
@@ -136,17 +141,17 @@
 		}, {
 			"status": "release",
 			"detail": [{
+				"name": "GX_ST"
+			}]
+		}, {
+			"status": "release",
+			"detail": [{
 				"name": "Himatsubushi"
 			}]
 		}, {
 			"status": "release",
 			"detail": [{
 				"name": "Hiryuu"
-			}]
-		}, {
-			"status": "release",
-			"detail": [{
-				"name": "GX_ST"
 			}]
 		}, {
 			"status": "release",
@@ -622,7 +627,7 @@
 				"name": "ReinWeiss"
 			}]
 		}, {
-			"status": "release",
+			"status": "dropped",
 			"detail": [{
 				"name": "Ryugan Fansubs"
 			}, {
@@ -732,7 +737,9 @@
 		}, {
 			"status": "release",
 			"detail": [{
-				"name": "UTW-Mazui"
+				"name": "Mazui"
+			}, {
+				"name": "UTW"
 			}]
 		}]
 	}, {
@@ -780,7 +787,9 @@
 		}, {
 			"status": "release",
 			"detail": [{
-				"name": "UTW-Ryuumaru"
+				"name": "Ryuumaru"
+			}, {
+				"name": "UTW"
 			}]
 		}, {
 			"status": "release",
