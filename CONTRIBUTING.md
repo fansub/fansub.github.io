@@ -71,6 +71,8 @@ A year directory should contain the following:
 2. A JSON file `list.json` which contains the season files information. [Example][seasonJSON] [Structure][struct]
   * There are one JSON file and one HTML file per season.
   
+NB: On some websites, Winter 2016/2017 (for example) is indicated as Winter 2017 (like myanimelist). In this website, it's indicated as Winter 2016.
+  
 ## That you can do to do a better Pull Request
 
 * Validate your JSON changes by using [Json Schema Validator][JSONValidator]
@@ -89,7 +91,7 @@ A year directory should contain the following:
 Do not hesitate to report bugs or some suggestions [here][NEWIssue]!
 
 [pr]: https://github.com/FansubDB/fansubdb.github.io/compare/
-[JSONEditor]: https://www.jsoneditoronline.org
+[JSONEditor]: http://www.jsoneditoronline.org
 [JSONFormat]: http://jsonlint.com
 [index]: fr/index.html
 [list]: fr/list.json

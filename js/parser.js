@@ -1,21 +1,21 @@
 function parse() {
-  var tmp = [];
-  var year, season;
+	var tmp = [];
+	var year, season;
 
-  var items = location.search.substr(1).split("&");//first we remove the part after "?" and split this part with &
-
-  for (var index = 0; index < items.length; index++) {
-    tmp = items[index].split("=");
-
-    //two parameters allowed : year, season
-    if (tmp[0].search("year") != -1) {
-      year = tmp[1];
-    }
-    if (tmp[0].search("season") != -1) {
-      season = tmp[1];
-    }
-  }
-  return new Array(season, year);
+	var items = location.search.substr(1).split("&");//first we remove the part after "?" and split this part with &
+	
+	for (var index = 0; index < items.length; index++) {
+		tmp = items[index].split("=");
+		
+		//two parameters allowed : year, season
+		if (tmp[0].search("year") != -1) {
+			year = tmp[1];
+		}
+		if (tmp[0].search("season") != -1) {
+			season = tmp[1];
+		}
+	}
+	return new Array(season, year);
 }
 
 function addOnClick(id, url, num){
@@ -27,12 +27,15 @@ function writeList(id, actual_title, arr){
 	removeTag('list');
 	var data = '';
 
-	for(i = 0; i < arr.length; ++i) {
-		for(j=0; j < arr[i].seasons.length; ++j) {
-			data += '<li><a href="//'  + location.host + location.pathname + '?year=' + arr[i].year + '&season=' + arr[i].seasons[j].title + '">';
+	for(i = arr.length-1; i >= 0 && i > (arr.length-1 -2); --i) {
+		for (j = arr[i].seasons.length-1; j >= 0; --j) {
+			data += '<li><a href="?year=' + arr[i].year + '&season=' + arr[i].seasons[j].title + '">';
 			data += capitalizeFirstLetter(arr[i].seasons[j].title) + '  '  + arr[i].year + '</a></li>';
 		}
 	}
+	data += '<li role="separator" class="divider"></li>';
+	data += '<li><a href="archives.html" >Archives</a></li>';
+
 	writeDataInnerHtml('list', data);
 }
 
@@ -62,14 +65,18 @@ function readListJsonFile(link) {
 					document.title = capitalizeFirstLetter(seasonObj.title) + " " + yearObj.year;
 					url = yearObj.url + seasonObj.url;
 
-					if((typeof tmp[0] === 'undefined') && (typeof tmp[1] === 'undefined'))//user don't define any param
+					if((typeof tmp[0] === 'undefined') && (typeof tmp[1] === 'undefined')) {//user don't define any param
 						writeDataInnerHtml('warning', warningTemplate(yearObj.msg + ' ' + capitalizeFirstLetter(seasonObj.title) + " " + yearObj.year));
-					else if(typeof tmp[0] === 'undefined') //no season
+					}
+					else if(typeof tmp[0] === 'undefined') { //no season
 						writeDataInnerHtml('warning', warningTemplate(yearObj.msg_season + ' ' + capitalizeFirstLetter(seasonObj.title) + " " + yearObj.year));
-					else if(typeof tmp[1] === 'undefined') //no year
+					}
+					else if(typeof tmp[1] === 'undefined') { //no year
 						writeDataInnerHtml('warning', warningTemplate(yearObj.msg_year + ' ' + capitalizeFirstLetter(seasonObj.title) + " " + yearObj.year));
-					else //bad year or bad season
+					}
+					else { //bad year or bad season
 						writeDataInnerHtml('warning', warningTemplate(yearObj.msg_all + ' ' + capitalizeFirstLetter(seasonObj.title) + " " + yearObj.year));
+					}
 				}
 				readJsonFile(url, SEASON);
 				writeMessage('title', document.title);

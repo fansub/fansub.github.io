@@ -67,7 +67,7 @@ function infoTemplate(text) {
 	return '<div class="alert alert-info"><a href="#" class="close" data-dismiss="alert">&times;</a>' + text + '</div>';
 }
 
-function readJsonFile(link, page, type) {
+function readJsonFile(link, page, type = 0) {
 	var req = new XMLHttpRequest();
 	writeLog(new Date() + " - Loading data from JSON file <" + link + ">");
 	req.open('GET', link, true); //true for asynchronous
@@ -81,6 +81,7 @@ function readJsonFile(link, page, type) {
 					writeLog("	HOME page");
 					var objJson = JSON.parse(req.responseText);
 					buildNavbar(objJson);
+					buildHomePage(objJson);
 					break;
 
 				case ARCHIVE:
@@ -137,11 +138,30 @@ function buildNavbar(arr) {
 
 	for(i = 0; i < arr.length; ++i) {
 		writeLog(" >> " + (i+1) +"th language added");
-		dataNavbar += '<li><a href="' + arr[i].url + '" title="' + arr[i].title + '">' + capitalizeFirstLetter(arr[i].lang) + '</a></li>';
+		dataNavbar += '<li><a href="' + arr[i].index + '" title="' + arr[i].title + '">' + capitalizeFirstLetter(arr[i].lang) + '</a></li>';
 	}
 
 	writeDataInnerHtml('navbar-ul', dataNavbar);
 	writeLog(" > End of the build of the NAVBAR - " + new Date());
+}
+
+function buildHomePage(arr) {
+	writeLog(" > Build of the HOMEPAGE - " + new Date());
+
+	removeTag('lang-row');
+	var dataHomePage = '';
+
+	for(i = 0; i < arr.length; ++i) {
+		writeLog(" >> " + (i+1) +"th language added");
+		dataHomePage += '<div class="col-lg-4">';
+		dataHomePage += '<img class="img-circle" src="' + arr[i].flag + '" alt="' + capitalizeFirstLetter(arr[i].lang) + ' flag" width="140" height="140">';
+		dataHomePage += '<h2>' + capitalizeFirstLetter(arr[i].lang) + '</h2>';
+		dataHomePage += '<p><a class="btn btn-default" href="' + arr[i].index + '" title="' + arr[i].title + '" role="button">' + arr[i]["view-page"] + ' &raquo;</a></p>'; //jsonObj['md-number'] 
+		dataHomePage += '</div>';
+	}
+
+	writeDataInnerHtml('lang-row', dataHomePage);
+	writeLog(" > End of the build of the HOMEPAGE - " + new Date());
 }
 
 function buildArchive(arr) {
@@ -165,8 +185,8 @@ function buildArchive(arr) {
 	writeLog(" > End of the build of the ARCHIVE page (begin by the end) - " + new Date());
 }
 
-/*In "onclick" of the button, TV = 0, OVA = 1 and MOVIE = 2.*/
-function buildPage(arr, type) {
+/*In "onclick" of the button, TV = 0 (default), OVA = 1 and MOVIE = 2.*/
+function buildPage(arr, type = 0) {
 	var array = "";
 	writeLog(" > Build of the BUTTONS - " + new Date());
 

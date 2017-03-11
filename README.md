@@ -9,7 +9,7 @@ This site has the goal to list all the new airing/streaming anime in Japan, and 
 It's not really an API.
 Our website hosts `JSON` files to load our `HTML` files content.
 <br><br>
-You can access to it over **GET** on **HTTP** or **HTTPS** on fansubdb.github.io/`:lang/:years/:season.json`
+You can access to it over **GET** on **HTTP** or **HTTPS** on `fansubdb.github.io/:lang/:years/:season.json`
 <br>
 * `:lang` can be found on `https://fansubdb.github.io/lang.json`
 * `:year` and `:season` can be found on `https://fansubdb.github.io/:lang/list.json` (`:lang` come from above)
@@ -58,7 +58,7 @@ An anime object contains:
 	"name": "name",
 	"group": "fansub group",
 	"lbl_tv": "TV",
-	"lbl_ova": "OAV/ONA/Special",
+	"lbl_ova": "OVA/ONA/Special",
 	"lbl_movie": "Movie",
 	"message": "This list is empty! <br>Don't hesitate to submit a PR.",
 	"tv": [{
@@ -152,6 +152,6 @@ Source code is under the [GNU GPL v3 license][GPLv3] and JSON files, which conta
 
 [url]: https://fansubdb.github.io
 [automne2014JSON]: fr/2014/automne.json
-[TLDRContributing]: CONTRIBUTING.md#tddr-modifying-a-json-file
+[TLDRContributing]: CONTRIBUTING.md#the-short-version-modifying-a-json-file
 [GPLv3]: https://www.gnu.org/licenses/gpl-3.0.txt
 [CCBYSA]: http://creativecommons.org/licenses/by-sa/4.0/
