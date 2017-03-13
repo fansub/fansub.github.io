@@ -71,6 +71,16 @@
 			"htmlUrl": "hiver.html",
 			"deco": "2016年の冬"
 		}]
+	}, {
+		"year": 2017,
+		"url": "2017/",
+		"seasons": [{
+			"season": "spring",
+			"title": "printemps",
+			"url": "printemps.json",
+			"htmlUrl": "printemps.html",
+			"deco": "2017年の春"
+		}]
 	}],
 	"msg": "<strong>Attention !</strong> Données de : ",
 	"msg_season": "<strong>Attention !</strong> Utilisation des données : ",
