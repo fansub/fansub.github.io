@@ -14,13 +14,22 @@
 		"image": "https://myanimelist.cdn-dena.com/images/anime/6/84187.jpg",
 		"group": []
 	}, {
+		"name": "Ani ni Tsukeru Kusuri wa Nai!",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/2/84548.jpg",
+		"group": []
+	}, {
 		"name": "Atom: The Beginning",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/5/84357.jpg",
 		"group": []
 	}, {
 		"name": "Berserk (2017)",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/4/82234.jpg",
-		"group": []
+		"group": [{
+			"status": "simulcast",
+			"detail": [{
+				"name": "Crunchyroll"
+			}]
+		}]
 	}, {
 		"name": "Beyblade Burst God",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/12/84211.jpg",
@@ -28,11 +37,21 @@
 	}, {
 		"name": "Boku no Hero Academia 2nd Season",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/10/83359.jpg",
-		"group": []
+		"group": [{
+			"status": "simulcast",
+			"detail": [{
+				"name": "Anime Digital Network"
+			}]
+		}]
 	}, {
 		"name": "Boruto: Naruto Next Generations",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/4/83369.jpg",
-		"group": []
+		"group": [{
+			"status": "simulcast",
+			"detail": [{
+				"name": "Anime Digital Network"
+			}]
+		}]
 	}, {
 		"name": "Busou Shoujo Machiavellism",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/3/83995.jpg",
@@ -70,9 +89,18 @@
 		"image": "https://myanimelist.cdn-dena.com/images/anime/13/84075.jpg",
 		"group": []
 	}, {
+		"name": "Gin no Guardian",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/5/84412.jpg",
+		"group": []
+	}, {
 		"name": "Granblue Fantasy the Animation",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/2/81630.jpg",
-		"group": []
+		"group": [{
+			"status": "simulcast",
+			"detail": [{
+				"name": "Wakanim"
+			}]
+		}]
 	}, {
 		"name": "Hinako Note",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/6/82954.jpg",
@@ -96,18 +124,27 @@
 	}, {
 		"name": "Kyoukai no Rinne 3rd Season",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/8/84287.jpg",
-		"group": []
+		"group": [{
+			"status": "simulcast",
+			"detail": [{
+				"name": "Anime Digital Network"
+			}]
+		}]
 	}, {
 		"name": "Love Kome: We Love Rice",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/5/84377.jpg",
 		"group": []
 	}, {
 		"name": "Makeru na!! Aku no Gundan!",
-		"image": "",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/12/84185.jpg",
 		"group": []
 	}, {
 		"name": "Natsume Yuujinchou Roku",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/2/83430.jpg",
+		"group": []
+	}, {
+		"name": "Nobunaga no Shinobi: Ise Kanegasaki-hen",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/13/84475.jpg",
 		"group": []
 	}, {
 		"name": "Oushitsu Kyoushi Haine",
@@ -156,6 +193,10 @@
 	}, {
 		"name": "Shingeki no Kyojin Season 2",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/4/84177.jpg",
+		"group": []
+	}, {
+		"name": "Shounen Ashibe GO! GO! Goma-chan 2nd Season",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/6/84479.jpg",
 		"group": []
 	}, {
 		"name": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
@@ -207,7 +248,7 @@
 		"group": []
 	}, {
 		"name": "Yume Oukoku to Nemureru 100 Nin no Ouji-sama Short Stories",
-		"image": "",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/12/84446.jpg",
 		"group": []
 	}, {
 		"name": "Zero kara Hajimeru Mahou no Sho",
