@@ -1,0 +1,29 @@
+{
+  "name": "ชื่อ",
+  "group": "แฟนซับ",
+  "message": "ไม่ทราบข้อมูล",
+  "lbl_tv": "TV",
+  "lbl_ova": "OVA/ONA/SP",
+  "lbl_movie": "Movie",
+  "tv": [
+    {
+      "name": "Tokyo Magnitude 8.0 Recap",
+      "image": "https://myanimelist.cdn-dena.com/images/anime/6/18435.jpg?s=51fdb3bea303b7d3b4f8a85e3d5b3f08",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Lya"
+            },
+            {
+              "name": "NamaeNai-FS"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ova": [],
+  "movie": []
+}

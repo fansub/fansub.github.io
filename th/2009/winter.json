@@ -1,0 +1,54 @@
+{
+  "name": "ชื่อ",
+  "group": "แฟนซับ",
+  "message": "ไม่ทราบข้อมูล",
+  "lbl_tv": "TV",
+  "lbl_ova": "OVA/ONA/SP",
+  "lbl_movie": "Movie",
+  "tv": [
+    {
+      "name": "Baka to Test to Shoukanjuu: Matsuri",
+      "image": "https://myanimelist.cdn-dena.com/images/anime/3/67303.jpg?s=048fca5bdfb21cefa072a303fe8047ad",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "DL-Plus!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heartcatch Precure!",
+      "image": "https://myanimelist.cdn-dena.com/images/anime/2/25915.jpg?s=0df5091b18bcc6eb1a6b90dbf0bc560e",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "mahou-thailand"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Seikon no Qwaser",
+      "image": "https://myanimelist.cdn-dena.com/images/anime/9/67771.jpg?s=134c2a70b2d5a80340006d36f3e8cb3b",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "VS-Sub"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ova": [],
+  "movie": []
+}
