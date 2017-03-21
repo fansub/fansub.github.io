@@ -1,26 +1,20 @@
 {
-  "name": "ชื่อ",
-  "group": "แฟนซับ",
-  "message": "ไม่ทราบข้อมูล",
-  "lbl_tv": "TV",
-  "lbl_ova": "OVA/ONA/SP",
-  "lbl_movie": "Movie",
-  "tv": [
-    {
-      "name": "Dragon Ball",
-      "image": "https://myanimelist.cdn-dena.com/images/anime/9/21055.jpg?s=af266c8c77c31b57ca510ac381a76844",
-      "group": [
-        {
-          "status": "release",
-          "detail": [
-            {
-              "name": "Nuclear Fusion"
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "ova": [],
-  "movie": []
+	"name": "ชื่อ",
+	"group": "แฟนซับ",
+	"message": "ไม่ทราบข้อมูล",
+	"lbl_tv": "TV",
+	"lbl_ova": "OVA/ONA/SP",
+	"lbl_movie": "Movie",
+	"tv": [{
+		"name": "Dragon Ball",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/9/21055.jpg",
+		"group": [{
+			"status": "release",
+			"detail": [{
+				"name": "Nuclear Fusion"
+			}]
+		}]
+	}],
+	"ova": [],
+	"movie": []
 }
