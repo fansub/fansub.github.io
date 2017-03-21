@@ -271,15 +271,6 @@
 			}]
 		}]
 	}, {
-		"name": "Guilty Crown: Lost Christmas",
-		"image": "https://myanimelist.cdn-dena.com/images/anime/7/80010.jpg",
-		"group": [{
-			"status": "release",
-			"detail": [{
-				"name": "Arkadaz-FS"
-			}]
-		}]
-	}, {
 		"name": "Hidamari Sketch x Honeycomb",
 		"image": "https://myanimelist.cdn-dena.com/images/anime/2/50501.jpg",
 		"group": [{
@@ -763,15 +754,6 @@
 			"status": "release",
 			"detail": [{
 				"name": "Bakatachi-FS"
-			}]
-		}]
-	}, {
-		"name": "Nerawareta Gakuen",
-		"image": "https://myanimelist.cdn-dena.com/images/anime/2/43807.jpg",
-		"group": [{
-			"status": "release",
-			"detail": [{
-				"name": "Allot-FS"
 			}]
 		}]
 	}, {
