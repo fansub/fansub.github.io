@@ -386,11 +386,6 @@
 		}, {
 			"status": "release",
 			"detail": [{
-				"name": "Emergency-FS"
-			}]
-		}, {
-			"status": "release",
-			"detail": [{
 				"name": "Muttsurini-FS"
 			}]
 		}, {
