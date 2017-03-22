@@ -169,18 +169,109 @@ function buildHomePage(arr) {
 function buildArchive(arr) {
 	writeLog(" > Build of the ARCHIVE page (begin by the end) - " + new Date());
 
+	/* based on parser.js > parse() */
+	var page;
+	var tmp = [];
+
+	var items = location.search.substr(1).split("&");//first we remove the part after "?" and split this part with &
+
+	for (var index = 0; index < items.length; index++) {
+		tmp = items[index].split("=");
+
+		//one parameter allowed : page
+		if (tmp[0].search("page") != -1) {
+			page = tmp[1];
+		}
+	}
+	
+	page = Number.parseInt(page);
+
 	removeTag('archive');
+
 	var datArchive = '';
 
-	for(i = arr.length-1; i >= 0; --i) {
-		writeLog(" >> " + (i+1) + "th year loaded");
-		datArchive += '<article><h3>' + arr[i].year + '</h3><ul>';
+	/* http://stackoverflow.com/a/14636652 */
+	if (page === parseInt(page, 10)) {
+		//show the correct page if it exists
+		if ((page > 0) && (page <= Math.trunc(arr.length/5) +1)) {
+			//we show the page from 5*(page-1)+1 to 5*page
+			for(i = (arr.length-1)-5*(page-1); (i >= arr.length -5*page); --i) {
+				writeLog(" >> " + (i+1) + "th year loaded");
+				datArchive += '<article><h3>' + arr[i].year + '</h3><ul>';
 
-		for (j = arr[i].seasons.length-1; j >= 0; --j) {
-			writeLog(" >>> " + (j+1) + "th season loaded");
-			datArchive += '<li><a onmouseover="display(\'' + arr[i].seasons[j].deco + '\');"onmouseout="reset();" href="' + arr[i].url + arr[i].seasons[j].htmlUrl + '" >'+ capitalizeFirstLetter(arr[i].seasons[j].title) + '</a></li>';
+				for (j = arr[i].seasons.length-1; j >= 0; --j) {
+					writeLog(" >>> " + (j+1) + "th season loaded");
+					datArchive += '<li><a onmouseover="display(\'' + arr[i].seasons[j].deco + '\');"onmouseout="reset();" href="' + arr[i].url + arr[i].seasons[j].htmlUrl + '" >'+ capitalizeFirstLetter(arr[i].seasons[j].title) + '</a></li>';
+				}
+				datArchive += '</url></article>';
+			}
+			datArchive += '<div class="text-center"><ul class="pagination">';
+			for (i = 1; i < (Math.trunc(arr.length/5) +1) ; ++i) {
+				if (i==page)
+					datArchive += '<li class="active"><a href="?page=' + i + '">' + i + '</a></li>';
+				else
+					datArchive += '<li><a href="?page=' + i + '">' + i + '</a></li>';
+			}
+			datArchive += '</ul></div>';
 		}
-		datArchive += '</url></article>';
+		else {
+			// we only show 5 with pagination
+			for(i = arr.length-1; (i >= arr.length -5); --i) {
+				writeLog(" >> " + (i+1) + "th year loaded");
+				datArchive += '<article><h3>' + arr[i].year + '</h3><ul>';
+
+				for (j = arr[i].seasons.length-1; j >= 0; --j) {
+					writeLog(" >>> " + (j+1) + "th season loaded");
+					datArchive += '<li><a onmouseover="display(\'' + arr[i].seasons[j].deco + '\');"onmouseout="reset();" href="' + arr[i].url + arr[i].seasons[j].htmlUrl + '" >'+ capitalizeFirstLetter(arr[i].seasons[j].title) + '</a></li>';
+				}
+				datArchive += '</url></article>';
+			}
+			datArchive += '<div class="text-center"><ul class="pagination">';
+			for (i = 1; i < (Math.trunc(arr.length/5) +1) ; ++i) {
+				if (i==1)
+					datArchive += '<li class="active"><a href="?page=1">1</a></li>';
+				else
+					datArchive += '<li><a href="?page=' + i + '">' + i + '</a></li>';
+			}
+			datArchive += '</ul></div>';
+		}
+	}
+	else {
+		/* pagination of 5 */
+		if (((arr.length-1) - 5) <= 0) {
+			//we show all
+			for(i = arr.length-1; i >= 0; --i) {
+				writeLog(" >> " + (i+1) + "th year loaded");
+				datArchive += '<article><h3>' + arr[i].year + '</h3><ul>';
+
+				for (j = arr[i].seasons.length-1; j >= 0; --j) {
+					writeLog(" >>> " + (j+1) + "th season loaded");
+					datArchive += '<li><a onmouseover="display(\'' + arr[i].seasons[j].deco + '\');"onmouseout="reset();" href="' + arr[i].url + arr[i].seasons[j].htmlUrl + '" >'+ capitalizeFirstLetter(arr[i].seasons[j].title) + '</a></li>';
+				}
+				datArchive += '</url></article>';
+			}
+		}
+		else {
+			// we only show 5 with pagination
+			for(i = arr.length-1; (i >= arr.length -5); --i) {
+				writeLog(" >> " + (i+1) + "th year loaded");
+				datArchive += '<article><h3>' + arr[i].year + '</h3><ul>';
+
+				for (j = arr[i].seasons.length-1; j >= 0; --j) {
+					writeLog(" >>> " + (j+1) + "th season loaded");
+					datArchive += '<li><a onmouseover="display(\'' + arr[i].seasons[j].deco + '\');"onmouseout="reset();" href="' + arr[i].url + arr[i].seasons[j].htmlUrl + '" >'+ capitalizeFirstLetter(arr[i].seasons[j].title) + '</a></li>';
+				}
+				datArchive += '</url></article>';
+			}
+			datArchive += '<div class="text-center"><ul class="pagination">';
+			for (i = 1; i < (Math.trunc(arr.length/5) +1) ; ++i) {
+				if (i==1)
+					datArchive += '<li class="active"><a href="?page=1">1</a></li>';
+				else
+					datArchive += '<li><a href="?page=' + i + '">' + i + '</a></li>';
+			}
+			datArchive += '</ul></div>';
+		}
 	}
 
 	writeDataInnerHtml('archive', datArchive);
