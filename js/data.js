@@ -67,6 +67,21 @@ function infoTemplate(text) {
 	return '<div class="alert alert-info"><a href="#" class="close" data-dismiss="alert">&times;</a>' + text + '</div>';
 }
 
+function pagination(arrLength, yearPerPage, pageActive = 1) {
+	if (arrLength <= yearPerPage) {
+		return "";
+	}
+	var html = '<div class="text-center"><ul class="pagination">';
+	for (i = 1; i < (Math.trunc(arrLength/yearPerPage) +1) ; ++i) {
+		if (i == pageActive)
+			html += '<li class="active"><a href="?page=' + i + '">' + i + '</a></li>';
+		else
+			html += '<li><a href="?page=' + i + '">' + i + '</a></li>';
+	}
+	html += '</ul></div>';
+	return html;
+}
+
 function readJsonFile(link, page, type = 0) {
 	var req = new XMLHttpRequest();
 	writeLog(new Date() + " - Loading data from JSON file <" + link + ">");
@@ -205,14 +220,7 @@ function buildArchive(arr) {
 				}
 				datArchive += '</url></article>';
 			}
-			datArchive += '<div class="text-center"><ul class="pagination">';
-			for (i = 1; i < (Math.trunc(arr.length/5) +1) ; ++i) {
-				if (i==page)
-					datArchive += '<li class="active"><a href="?page=' + i + '">' + i + '</a></li>';
-				else
-					datArchive += '<li><a href="?page=' + i + '">' + i + '</a></li>';
-			}
-			datArchive += '</ul></div>';
+			datArchive += pagination(arr.length, 5, page);
 		}
 		else {
 			// we only show 5 with pagination
@@ -226,14 +234,7 @@ function buildArchive(arr) {
 				}
 				datArchive += '</url></article>';
 			}
-			datArchive += '<div class="text-center"><ul class="pagination">';
-			for (i = 1; i < (Math.trunc(arr.length/5) +1) ; ++i) {
-				if (i==1)
-					datArchive += '<li class="active"><a href="?page=1">1</a></li>';
-				else
-					datArchive += '<li><a href="?page=' + i + '">' + i + '</a></li>';
-			}
-			datArchive += '</ul></div>';
+			datArchive += pagination(arr.length, 5);
 		}
 	}
 	else {
@@ -250,6 +251,7 @@ function buildArchive(arr) {
 				}
 				datArchive += '</url></article>';
 			}
+			datArchive += pagination(arr.length, 5);
 		}
 		else {
 			// we only show 5 with pagination
@@ -263,14 +265,7 @@ function buildArchive(arr) {
 				}
 				datArchive += '</url></article>';
 			}
-			datArchive += '<div class="text-center"><ul class="pagination">';
-			for (i = 1; i < (Math.trunc(arr.length/5) +1) ; ++i) {
-				if (i==1)
-					datArchive += '<li class="active"><a href="?page=1">1</a></li>';
-				else
-					datArchive += '<li><a href="?page=' + i + '">' + i + '</a></li>';
-			}
-			datArchive += '</ul></div>';
+			datArchive += pagination(arr.length, 5, page);
 		}
 	}
 
