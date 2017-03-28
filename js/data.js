@@ -82,6 +82,22 @@ function pagination(arrLength, yearPerPage, pageActive = 1) {
 	return html;
 }
 
+function archiveYearShowing(arr, page = 1) {
+	var data = "";
+	//we show the page from 5*(page-1)+1 to 5*page
+	for(i = (arr.length-1)-5*(page-1); (i >= arr.length -5*page) && (i >= 0); --i) {
+		writeLog(" >> " + (i+1) + "th year loaded");
+		data += '<article><h3>' + arr[i].year + '</h3><ul>';
+
+		for (j = arr[i].seasons.length-1; j >= 0; --j) {
+			writeLog(" >>> " + (j+1) + "th season loaded");
+			data += '<li><a onmouseover="display(\'' + arr[i].seasons[j].deco + '\');"onmouseout="reset();" href="' + arr[i].url + arr[i].seasons[j].htmlUrl + '" >'+ capitalizeFirstLetter(arr[i].seasons[j].title) + '</a></li>';
+		}
+		data += '</url></article>';
+	}
+	return data;
+}
+
 function readJsonFile(link, page, type = 0) {
 	var req = new XMLHttpRequest();
 	writeLog(new Date() + " - Loading data from JSON file <" + link + ">");
@@ -209,64 +225,17 @@ function buildArchive(arr) {
 	if (page === parseInt(page, 10)) {
 		//show the correct page if it exists
 		if ((page > 0) && (page <= Math.trunc(arr.length/5) +1)) {
-			//we show the page from 5*(page-1)+1 to 5*page
-			for(i = (arr.length-1)-5*(page-1); (i >= arr.length -5*page); --i) {
-				writeLog(" >> " + (i+1) + "th year loaded");
-				datArchive += '<article><h3>' + arr[i].year + '</h3><ul>';
-
-				for (j = arr[i].seasons.length-1; j >= 0; --j) {
-					writeLog(" >>> " + (j+1) + "th season loaded");
-					datArchive += '<li><a onmouseover="display(\'' + arr[i].seasons[j].deco + '\');"onmouseout="reset();" href="' + arr[i].url + arr[i].seasons[j].htmlUrl + '" >'+ capitalizeFirstLetter(arr[i].seasons[j].title) + '</a></li>';
-				}
-				datArchive += '</url></article>';
-			}
+			datArchive += archiveYearShowing(arr, page);
 			datArchive += pagination(arr.length, 5, page);
 		}
 		else {
-			// we only show 5 with pagination
-			for(i = arr.length-1; (i >= arr.length -5); --i) {
-				writeLog(" >> " + (i+1) + "th year loaded");
-				datArchive += '<article><h3>' + arr[i].year + '</h3><ul>';
-
-				for (j = arr[i].seasons.length-1; j >= 0; --j) {
-					writeLog(" >>> " + (j+1) + "th season loaded");
-					datArchive += '<li><a onmouseover="display(\'' + arr[i].seasons[j].deco + '\');"onmouseout="reset();" href="' + arr[i].url + arr[i].seasons[j].htmlUrl + '" >'+ capitalizeFirstLetter(arr[i].seasons[j].title) + '</a></li>';
-				}
-				datArchive += '</url></article>';
-			}
+			datArchive += archiveYearShowing(arr);
 			datArchive += pagination(arr.length, 5);
 		}
 	}
 	else {
-		/* pagination of 5 */
-		if (((arr.length-1) - 5) <= 0) {
-			//we show all
-			for(i = arr.length-1; i >= 0; --i) {
-				writeLog(" >> " + (i+1) + "th year loaded");
-				datArchive += '<article><h3>' + arr[i].year + '</h3><ul>';
-
-				for (j = arr[i].seasons.length-1; j >= 0; --j) {
-					writeLog(" >>> " + (j+1) + "th season loaded");
-					datArchive += '<li><a onmouseover="display(\'' + arr[i].seasons[j].deco + '\');"onmouseout="reset();" href="' + arr[i].url + arr[i].seasons[j].htmlUrl + '" >'+ capitalizeFirstLetter(arr[i].seasons[j].title) + '</a></li>';
-				}
-				datArchive += '</url></article>';
-			}
-			datArchive += pagination(arr.length, 5);
-		}
-		else {
-			// we only show 5 with pagination
-			for(i = arr.length-1; (i >= arr.length -5); --i) {
-				writeLog(" >> " + (i+1) + "th year loaded");
-				datArchive += '<article><h3>' + arr[i].year + '</h3><ul>';
-
-				for (j = arr[i].seasons.length-1; j >= 0; --j) {
-					writeLog(" >>> " + (j+1) + "th season loaded");
-					datArchive += '<li><a onmouseover="display(\'' + arr[i].seasons[j].deco + '\');"onmouseout="reset();" href="' + arr[i].url + arr[i].seasons[j].htmlUrl + '" >'+ capitalizeFirstLetter(arr[i].seasons[j].title) + '</a></li>';
-				}
-				datArchive += '</url></article>';
-			}
-			datArchive += pagination(arr.length, 5, page);
-		}
+		datArchive += archiveYearShowing(arr);
+		datArchive += pagination(arr.length, 5);
 	}
 
 	writeDataInnerHtml('archive', datArchive);
