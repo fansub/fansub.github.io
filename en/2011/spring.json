@@ -7,7 +7,7 @@
 	"lbl_movie": "Movies",
 	"tv": [{
 			"name": "30-sai no Hoken Taiiku",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/2/81172.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -23,8 +23,8 @@
 			]
 		},
 		{
-			"name": "A Channel",
-			"image": "",
+			"name": "A-Channel",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/29687.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -70,13 +70,17 @@
 			]
 		},
 		{
-			"name": "Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai.",
-			"image": "",
+			"name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/79697.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "Ayako-Delight"
-					}]
+							"name": "Ayako"
+						},
+						{
+							"name": "Delight"
+						}
+					]
 				},
 				{
 					"status": "release",
@@ -99,8 +103,12 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Koharubi-Mango"
-					}]
+							"name": "Koharubi"
+						},
+						{
+							"name": "Mango"
+						}
+					]
 				},
 				{
 					"status": "release",
@@ -119,46 +127,16 @@
 					"detail": [{
 						"name": "UTW"
 					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Coalgirls"
-					}]
 				}
 			]
 		},
 		{
 			"name": "Ao no Exorcist",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/75195.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
 						"name": "ChibiSui-subs"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "gg"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Hatsuyuki-Hadena"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Kata-Subs"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "WoodBridge"
 					}]
 				},
 				{
@@ -170,7 +148,29 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Hasaki"
+						"name": "gg"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "Hadena"
+						},
+						{
+							"name": "Hatsuyuki"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Kata-Subs"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "WoodBridge"
 					}]
 				},
 				{
@@ -189,12 +189,22 @@
 		},
 		{
 			"name": "Astarotte no Omocha!",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/75562.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
 						"name": "Asuka-subs"
 					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "Commie"
+						},
+						{
+							"name": "Underwater"
+						}
+					]
 				},
 				{
 					"status": "release",
@@ -227,12 +237,6 @@
 					}]
 				},
 				{
-					"status": "release",
-					"detail": [{
-						"name": "Underwater-Commie"
-					}]
-				},
-				{
 					"status": "simulcast",
 					"detail": [{
 						"name": "Crunchyroll"
@@ -241,14 +245,15 @@
 			]
 		},
 		{
-			"name": "Bakugan Battle Brawlers: Gundalian Invaders",
-			"image": "",
-			"group": []
-		},
-		{
-			"name": "C - The Money of Soul and Possibility Control",
-			"image": "",
+			"name": "C: The Money of Soul and Possibility Control",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/50551.jpg",
 			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Darksoul-Subs"
+					}]
+				},
+				{
 					"status": "release",
 					"detail": [{
 						"name": "Doki"
@@ -263,25 +268,19 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Nutbladder"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
 						"name": "Hatsuyuki"
 					}]
 				},
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Whine-Subs"
+						"name": "Nutbladder"
 					}]
 				},
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Darksoul-Subs"
+						"name": "Whine-Subs"
 					}]
 				},
 				{
@@ -300,17 +299,12 @@
 		},
 		{
 			"name": "Danball Senki",
-			"image": "",
-			"group": [{
-				"status": "release",
-				"detail": [{
-					"name": "KiteSeekers"
-				}]
-			}]
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/32037.jpg",
+			"group": []
 		},
 		{
 			"name": "Deadman Wonderland",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/75299.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -332,8 +326,12 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "SGKK-Ruri"
-					}]
+							"name": "Ruri"
+						},
+						{
+							"name": "SGKK"
+						}
+					]
 				},
 				{
 					"status": "release",
@@ -363,8 +361,18 @@
 		},
 		{
 			"name": "Denpa Onna to Seishun Otoko",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/59497.jpg",
 			"group": [{
+					"status": "release",
+					"detail": [{
+							"name": "Commie"
+						},
+						{
+							"name": "Underwater"
+						}
+					]
+				},
+				{
 					"status": "release",
 					"detail": [{
 						"name": "Doki"
@@ -381,23 +389,21 @@
 					"detail": [{
 						"name": "Mazui"
 					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Underwater-Commie"
-					}]
 				}
 			]
 		},
 		{
 			"name": "Dog Days",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/75378.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "Ayako-Himatsubushi"
-					}]
+							"name": "Ayako"
+						},
+						{
+							"name": "Himatsubushi"
+						}
+					]
 				},
 				{
 					"status": "release",
@@ -408,8 +414,12 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Hiryuu-HiNA"
-					}]
+							"name": "HiNA"
+						},
+						{
+							"name": "Hiryuu"
+						}
+					]
 				},
 				{
 					"status": "release",
@@ -427,7 +437,7 @@
 		},
 		{
 			"name": "Dororon Enma-kun Meeramera",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/75838.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -444,40 +454,38 @@
 		},
 		{
 			"name": "Duel Masters Victory",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/71913.jpg",
 			"group": []
 		},
 		{
-			"name": "Fireball Charming 2nd Season",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "gg"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "DATS"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Fujilog",
-			"image": "",
+			"name": "Fireball Charming",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/28791.jpg",
 			"group": [{
 				"status": "release",
 				"detail": [{
-					"name": ""
+					"name": "gg"
 				}]
 			}]
 		},
 		{
-			"name": "Gintama' 2nd Season",
-			"image": "",
+			"name": "Fujilog",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/81514.jpg",
+			"group": []
+		},
+		{
+			"name": "Gintama&apos;",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/50361.jpg",
 			"group": [{
+					"status": "release",
+					"detail": [{
+							"name": "Hadena"
+						},
+						{
+							"name": "WhyNot"
+						}
+					]
+				},
+				{
 					"status": "release",
 					"detail": [{
 						"name": "Rumbel"
@@ -490,12 +498,6 @@
 					}]
 				},
 				{
-					"status": "release",
-					"detail": [{
-						"name": "WhyNot-Hadena"
-					}]
-				},
-				{
 					"status": "simulcast",
 					"detail": [{
 						"name": "Crunchyroll"
@@ -504,9 +506,19 @@
 			]
 		},
 		{
-			"name": "Gyakkyou Burai Kaiji: Hakairoku Hen 2nd Season",
-			"image": "",
+			"name": "Gyakkyou Burai Kaiji: Hakairoku-hen",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/30599.jpg",
 			"group": [{
+					"status": "release",
+					"detail": [{
+							"name": "Commie"
+						},
+						{
+							"name": "Underwater"
+						}
+					]
+				},
+				{
 					"status": "release",
 					"detail": [{
 						"name": "Nutbladder"
@@ -517,37 +529,13 @@
 					"detail": [{
 						"name": "Triad"
 					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Underwater-Commie"
-					}]
 				}
 			]
 		},
 		{
-			"name": "Hana-Saku Iroha",
-			"image": "",
+			"name": "Hanasaku Iroha      ",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/28967.jpg",
 			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Doki"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Hatsuyuki-Tsuki"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "SHiN-gx"
-					}]
-				},
-				{
 					"status": "release",
 					"detail": [{
 						"name": "Chiki-Subs"
@@ -556,7 +544,23 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "gg"
+						"name": "Doki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "Hatsuyuki"
+						},
+						{
+							"name": "Tsuki"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "SHiN-gx"
 					}]
 				},
 				{
@@ -568,8 +572,8 @@
 			]
 		},
 		{
-			"name": "Happy Kappi",
-			"image": "",
+			"name": "Happy Kappy",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/32993.jpg",
 			"group": [{
 				"status": "release",
 				"detail": [{
@@ -578,13 +582,17 @@
 			}]
 		},
 		{
-			"name": "Hen Zemi TV",
-			"image": "",
+			"name": "HenSemi (TV)",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/75839.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "HiNA & Wasurenai"
-					}]
+							"name": "HiNA"
+						},
+						{
+							"name": "Wasurenai"
+						}
+					]
 				},
 				{
 					"status": "release",
@@ -602,7 +610,7 @@
 		},
 		{
 			"name": "Hidan no Aria",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/30095.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -628,18 +636,6 @@
 					}]
 				},
 				{
-					"status": "release",
-					"detail": [{
-						"name": "HiNA-subs Commie"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "GX_ST?"
-					}]
-				},
-				{
 					"status": "simulcast",
 					"detail": [{
 						"name": "FUNimation"
@@ -649,7 +645,7 @@
 		},
 		{
 			"name": "Hoshizora e Kakaru Hashi",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/73521.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -659,8 +655,22 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Doki-Chihiro"
-					}]
+							"name": "Chihiro"
+						},
+						{
+							"name": "Doki"
+						}
+					]
+				},
+				{
+					"status": "dropped",
+					"detail": [{
+							"name": "CTSS"
+						},
+						{
+							"name": "TZM"
+						}
+					]
 				},
 				{
 					"status": "release",
@@ -675,12 +685,6 @@
 					}]
 				},
 				{
-					"status": "release",
-					"detail": [{
-						"name": "CTSS-TZM"
-					}]
-				},
-				{
 					"status": "simulcast",
 					"detail": [{
 						"name": "Crunchyroll"
@@ -690,7 +694,7 @@
 		},
 		{
 			"name": "Hyouge Mono",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/77282.jpg",
 			"group": [{
 				"status": "release",
 				"detail": [{
@@ -700,17 +704,12 @@
 		},
 		{
 			"name": "Jewelpet Sunshine",
-			"image": "",
-			"group": [{
-				"status": "release",
-				"detail": [{
-					"name": "KiteSeekers"
-				}]
-			}]
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/28699.jpg",
+			"group": []
 		},
 		{
-			"name": "Kami nomi zo Shiru Sekai II 2nd Season",
-			"image": "",
+			"name": "Kami nomi zo Shiru Sekai II",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/30030.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -736,12 +735,6 @@
 					}]
 				},
 				{
-					"status": "release",
-					"detail": [{
-						"name": "SubDESU?"
-					}]
-				},
-				{
 					"status": "simulcast",
 					"detail": [{
 						"name": "Crunchyroll"
@@ -750,37 +743,8 @@
 			]
 		},
 		{
-			"name": "Kampfer fur die Liebe TV Specials",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "UTW"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Commie"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Hatsuyuki"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Hiryuu"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Maria Holic Alive 2nd Season",
-			"image": "",
+			"name": "Maria†Holic Alive",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/78775.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -797,57 +761,21 @@
 		},
 		{
 			"name": "Metal Fight Beyblade 4D",
-			"image": "",
-			"group": [{
-				"status": "release",
-				"detail": [{
-					"name": ""
-				}]
-			}]
-		},
-		{
-			"name": "Mobile Suit Gundam Unicorn",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "animeload"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "BSS"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "CoalGirls"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "TV-Japan"
-					}]
-				},
-				{
-					"status": "Simulcast",
-					"detail": [{
-						"name": "The Playstation Network"
-					}]
-				}
-			]
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/29013.jpg",
+			"group": []
 		},
 		{
 			"name": "Moshidora",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/29166.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "Frostii-Saizen"
-					}]
+							"name": "Frostii"
+						},
+						{
+							"name": "Saizen"
+						}
+					]
 				},
 				{
 					"status": "release",
@@ -858,8 +786,8 @@
 			]
 		},
 		{
-			"name": "Nichijou TV",
-			"image": "",
+			"name": "Nichijou",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/75617.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -875,13 +803,17 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Doki"
-					}]
+							"name": "Commie"
+						},
+						{
+							"name": "Underwater"
+						}
+					]
 				},
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Underwater-Commie"
+						"name": "Doki"
 					}]
 				},
 				{
@@ -893,18 +825,18 @@
 			]
 		},
 		{
-			"name": "Ore-tachi ni Tsubasa wa Nai",
-			"image": "",
+			"name": "Oretachi ni Tsubasa wa Nai: Under the Innocent Sky.",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/75449.jpg",
 			"group": [{
-					"status": "release",
+					"status": "dropped",
 					"detail": [{
-						"name": "Shikkaku"
+						"name": "MSPN"
 					}]
 				},
 				{
 					"status": "release",
 					"detail": [{
-						"name": "MSPN"
+						"name": "Shikkaku"
 					}]
 				},
 				{
@@ -917,7 +849,7 @@
 		},
 		{
 			"name": "Pretty Rhythm: Aurora Dream",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/36423.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -927,51 +859,42 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "KiteSeekers-Wasurenai"
-					}]
+							"name": "KiteSeekers"
+						},
+						{
+							"name": "Wasurenai"
+						}
+					]
 				}
 			]
 		},
 		{
 			"name": "Ring ni Kakero 1: Sekai Taikai-hen",
-			"image": "",
-			"group": [{
-				"status": "release",
-				"detail": [{
-					"name": ""
-				}]
-			}]
-		},
-		{
-			"name": "Shiawase Haitatsu Taneko",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/75841.jpg",
 			"group": []
 		},
 		{
-			"name": "Shimanchu MiRiKa",
-			"image": "",
+			"name": "Shiawase Haitatsu Taneko",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/2/28900.jpg",
 			"group": []
 		},
 		{
 			"name": "Shouwa Monogatari",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/41117.jpg",
 			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Hatsuyuki-Hadena"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "KiteSeekers"
-					}]
-				}
-			]
+				"status": "release",
+				"detail": [{
+						"name": "Hadena"
+					},
+					{
+						"name": "Hatsuyuki"
+					}
+				]
+			}]
 		},
 		{
-			"name": "Seikon no Qwaser II 2nd Season",
-			"image": "",
+			"name": "Seikon no Qwaser II",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/2/75450.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -983,31 +906,13 @@
 					"detail": [{
 						"name": "SubDesu"
 					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Doki"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Shikkaku"
-					}]
 				}
 			]
 		},
 		{
-			"name": "Sekai-ichi Hatsukoi TV",
-			"image": "",
+			"name": "Sekaiichi Hatsukoi",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/29763.jpg",
 			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Sekai"
-					}]
-				},
-				{
 					"status": "release",
 					"detail": [{
 						"name": "Ryuumaru"
@@ -1016,7 +921,7 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "aarinfantasy"
+						"name": "Sekai"
 					}]
 				},
 				{
@@ -1028,22 +933,26 @@
 			]
 		},
 		{
-			"name": "Sengoku Otome ~Momoiro Paradox~",
-			"image": "",
+			"name": "Sengoku Otome: Momoiro Paradox",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/75231.jpg",
 			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Kyouki-Tsuki"
-					}]
-				},
-				{
-					"status": "release",
+					"status": "dropped",
 					"detail": [{
 						"name": "Akatsuki"
 					}]
 				},
 				{
 					"status": "release",
+					"detail": [{
+							"name": "Kyouki"
+						},
+						{
+							"name": "Tsuki"
+						}
+					]
+				},
+				{
+					"status": "dropped",
 					"detail": [{
 						"name": "nanisubs"
 					}]
@@ -1057,8 +966,8 @@
 			]
 		},
 		{
-			"name": "Sket Dance",
-			"image": "",
+			"name": "SKET Dance",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/9/73974.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -1075,17 +984,21 @@
 		},
 		{
 			"name": "Sockies: Frontier Quest",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/59711.jpg",
 			"group": []
 		},
 		{
 			"name": "Softenni",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/29091.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "Ayako-Nishishi"
-					}]
+							"name": "Ayako"
+						},
+						{
+							"name": "Nishishi"
+						}
+					]
 				},
 				{
 					"status": "release",
@@ -1103,7 +1016,7 @@
 		},
 		{
 			"name": "Steins;Gate",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/73199.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -1111,27 +1024,19 @@
 					}]
 				},
 				{
+					"status": "dropped",
+					"detail": [{
+							"name": "Mazui"
+						},
+						{
+							"name": "UTW"
+						}
+					]
+				},
+				{
 					"status": "release",
 					"detail": [{
 						"name": "Steins;Sub"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "UTW-Mazui"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Doki"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Ruri Subs?"
 					}]
 				},
 				{
@@ -1143,8 +1048,8 @@
 			]
 		},
 		{
-			"name": "Suzy's Zoo: Daisuki! Witzy",
-			"image": "",
+			"name": "Suzy&apos;s Zoo: Daisuki! Witzy",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/45917.jpg",
 			"group": [{
 				"status": "release",
 				"detail": [{
@@ -1154,7 +1059,7 @@
 		},
 		{
 			"name": "Tiger & Bunny",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/29466.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -1168,12 +1073,6 @@
 					}]
 				},
 				{
-					"status": "release",
-					"detail": [{
-						"name": "gg"
-					}]
-				},
-				{
 					"status": "simulcast",
 					"detail": [{
 						"name": "Viz Media"
@@ -1182,8 +1081,8 @@
 			]
 		},
 		{
-			"name": "Tono to Issho: Gantai no Yabou 2nd Season",
-			"image": "",
+			"name": "Tono to Issho: Gantai no Yabou",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/28398.jpg",
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
@@ -1192,24 +1091,27 @@
 			}]
 		},
 		{
-			"name": "Tottoko Hamtaro Dechu",
-			"image": "",
-			"group": []
-		},
-		{
 			"name": "Toriko",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/56329.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "Anime-Destiny & SGKK"
-					}]
+							"name": "Anime-Destiny"
+						},
+						{
+							"name": "SGKK"
+						}
+					]
 				},
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Animearth & Kaen"
-					}]
+							"name": "Animearth"
+						},
+						{
+							"name": "Kaen"
+						}
+					]
 				},
 				{
 					"status": "simulcast",
@@ -1221,7 +1123,7 @@
 		},
 		{
 			"name": "X-Men",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/30014.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -1237,8 +1139,8 @@
 			]
 		},
 		{
-			"name": "Yondemasu yo, Azazel-san. TV",
-			"image": "",
+			"name": "Yondemasu yo, Azazel-san. (TV)",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/75284.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -1260,28 +1162,8 @@
 			]
 		},
 		{
-			"name": "Young Animator Training Project",
-			"image": "",
-			"group": [{
-				"status": "release",
-				"detail": [{
-					"name": "gg"
-				}]
-			}]
-		},
-		{
-			"name": "Yuruani? Includes Five 5-Minute Flash Shows",
-			"image": "",
-			"group": [{
-				"status": "release",
-				"detail": [{
-					"name": "Interrobang (Reibai Only)"
-				}]
-			}]
-		},
-		{
-			"name": "Yuu Gi Ou! Zexal",
-			"image": "",
+			"name": "Yu☆Gi☆Oh! Zexal",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/40295.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -1291,18 +1173,62 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Shounen Heart, StrongBonds"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "GX_ST?"
+						"name": "Shounen Heart"
 					}]
 				}
 			]
 		}
 	],
-	"ova": [],
+	"ova": [{
+		"name": "Kämpfer für die Liebe",
+		"image": "https://myanimelist.cdn-dena.com/images/anime/2/29811.jpg",
+		"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "UTW"
+				}]
+			},
+			{
+				"name": "Mobile Suit Gundam Unicorn",
+				"image": "https://myanimelist.cdn-dena.com/images/anime/12/50459.jpg",
+				"group": [{
+						"status": "release",
+						"detail": [{
+							"name": "animeload"
+						}]
+					},
+					{
+						"status": "release",
+						"detail": [{
+							"name": "BSS"
+						}]
+					},
+					{
+						"status": "release",
+						"detail": [{
+							"name": "CoalGirls"
+						}]
+					},
+					{
+						"status": "release",
+						"detail": [{
+							"name": "TV-Japan"
+						}]
+					},
+					{
+						"status": "Simulcast",
+						"detail": [{
+							"name": "The Playstation Network"
+						}]
+					}
+				]
+			},
+			{
+				"name": "Shimanchu MiRiKa",
+				"image": "https://myanimelist.cdn-dena.com/images/anime/6/28586.jpg",
+				"group": []
+			}
+		]
+	}],
 	"movie": []
 }
