@@ -1055,6 +1055,92 @@
 			]
 		}
 	],
+	"ova": [{
+			"name": "Cinderella Girls Gekijou (Web)",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/85678.jpg",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "KataFansub"
+				}]
+			}]
+		},
+		{
+			"name": "Gabriel DropOut OVA",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/84676.jpg",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Kryxelix"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "KamiAmagumoSub"
+						},
+						{
+							"name": "KataFansub"
+						},
+						{
+							"name": "Google Translate Fansub"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "High School Fleet OVA",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/84267.jpg",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "WUGxYukarin"
+				}]
+			}]
+		},
+		{
+			"name": "Kobayashi-san Chi no Maid Dragon Specials",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/8/84751.jpg",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Anime Fall Year"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "KamiAmagumoSub"
+						},
+						{
+							"name": "KataFansub"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "New Game!: Watashi, Shain Ryokou tte Hajimete nano de...",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/82494.jpg",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "KataFansub"
+				}]
+			}]
+		},
+		{
+			"name": "Sin: Nanatsu no Taizai: Zange-roku",
+			"image": "https://s.livechart.me/anime/poster_images/2672/a2bc07bd67099cd69aaffa4e9227153cf63a9a82.jpg",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "Liberty-Fs"
+				}]
+			}]
+		}
+	],
 	"movie": [{
 			"name": "Biohazard: Vendetta",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/6/83300.jpg",
