@@ -943,12 +943,6 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "KryxelixSubs"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
 							"name": "SEIKAI-FS"
 						},
 						{
