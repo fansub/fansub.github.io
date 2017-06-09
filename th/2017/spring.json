@@ -288,8 +288,7 @@
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
-					"name": "DEX",
-					"url": "http://dexchannel.com/cartoon/show.php?id=161"
+					"name": "DEX"
 				}]
 			}]
 		},
@@ -694,8 +693,7 @@
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
-					"name": "DEX",
-					"url": "http://dexchannel.com/cartoon/show.php?id=165"
+					"name": "DEX"
 				}]
 			}]
 		},
@@ -1145,8 +1143,7 @@
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
-					"name": "M Picture",
-					"url": "http://www.majorcineplex.com/movie/resident-evil-vendetta"
+					"name": "Major Cineplex"
 				}]
 			}]
 		},
@@ -1156,8 +1153,7 @@
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
-					"name": "Netflix",
-					"url": "https://www.netflix.com/th/title/80115466"
+					"name": "Major Cineplex"
 				}]
 			}]
 		},
@@ -1167,8 +1163,7 @@
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
-					"name": "Netflix",
-					"url": "https://www.netflix.com/th/title/80057749"
+					"name": "Netflix"
 				}]
 			}]
 		},
@@ -1178,7 +1173,7 @@
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
-					"name": "TIGA"
+					"name": "AIS Play"
 				}]
 			}]
 		},
@@ -1188,8 +1183,7 @@
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
-					"name": "DEX",
-					"url": "http://www.majorcineplex.com/movie/fairy-tail-movie-2-dragon-cry"
+					"name": "Major Cineplex"
 				}]
 			}]
 		},
@@ -1199,8 +1193,7 @@
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
-					"name": "M Picture",
-					"url": "http://www.majorcineplex.com/movie/ancien-and-the-magic-tablet-copy-58e74e80c4d04"
+					"name": "Major Cineplex"
 				}]
 			}]
 		},
@@ -1210,8 +1203,7 @@
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
-					"name": "Pony Canyon",
-					"url": "https://www.youtube.com/watch?v=mUO_Tp-Ev9Y"
+					"name": "Pony Canyon"
 				}]
 			}]
 		},
@@ -1221,8 +1213,7 @@
 			"group": [{
 				"status": "simulcast",
 				"detail": [{
-					"name": "M Picture",
-					"url": "http://www.majorcineplex.com/movie/yu-gi-oh-the-dark-side-of-dimensions"
+					"name": "Major Cineplex"
 				}]
 			}]
 		}
