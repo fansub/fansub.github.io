@@ -1065,6 +1065,13 @@
 			"group": [{
 					"status": "release",
 					"detail": [{
+							"name": "Google Translate Fansub"
+						}
+
+					]
+				}, {
+					"status": "release",
+					"detail": [{
 						"name": "Kryxelix"
 					}]
 				},
@@ -1075,9 +1082,6 @@
 						},
 						{
 							"name": "KataFansub"
-						},
-						{
-							"name": "Google Translate Fansub"
 						}
 					]
 				}
