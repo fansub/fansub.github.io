@@ -533,13 +533,23 @@
 			]
 		},
 		{
-			"name": "Hanasaku Iroha      ",
+			"name": "Hanasaku Iroha",
 			"image": "https://myanimelist.cdn-dena.com/images/anime/3/28967.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
 						"name": "Chiki-Subs"
 					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "Commie"
+						},
+						{
+							"name": "Underwater"
+						}
+					]
 				},
 				{
 					"status": "release",
