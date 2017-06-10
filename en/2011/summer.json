@@ -1,66 +1,1208 @@
-{ "name": " Name ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Groups " } ] },]},
-{ "name": " Kayochu ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " " } ] },]},
-{ "name": " Inumarudashi
-Airing during 'Bang! Weekly Vomic' ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " " } ] },]},
-{ "name": " Double-J
-Airing during 'Yuruani?' ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Hiryuu " } ] },]},
-{ "name": " Blade ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Midnight-Sons, G4 " } ] },]},
-{ "name": " MonHun Nikki Girigiri Airu Mura G ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " " } ] },]},
-{ "name": " Rou-Kyuu-Bu! ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Ahodomo-Evetaku" } ] },{ "status": "release", "detail": [ { "name": "Doki" } ] },{ "status": "release", "detail": [ { "name": "Hatsuyuki-Hadena" } ] },{ "status": "release", "detail": [ { "name": "Hiryuu" } ] },{ "status": "release", "detail": [ { "name": "Shikkaku" } ] },{ "status": "release", "detail": [ { "name": "Mamiko
-Simulcast: The Anime Network " } ] },]},
-{ "name": " Ganbare!! Nattou-san ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " " } ] },]},
-{ "name": " Kami-sama no Memo-chou
-First episode is a 60-minute special ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Chihiro" } ] },{ "status": "release", "detail": [ { "name": "EveTaku" } ] },{ "status": "release", "detail": [ { "name": "Tokimeki" } ] },{ "status": "release", "detail": [ { "name": "UTW" } ] },{ "status": "release", "detail": [ { "name": "PHT-KAW" } ] },{ "status": "release", "detail": [ { "name": "Kuudere" } ] },{ "status": "release", "detail": [ { "name": "gg" } ] },{ "status": "release", "detail": [ { "name": "Monokage
-Simulcast: The Anime Network " } ] },]},
-{ "name": " Uta no Prince-sama - Maji Love 1000% ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " NyanTaku" } ] },{ "status": "release", "detail": [ { "name": "WhyNot" } ] },{ "status": "release", "detail": [ { "name": "Vyrsalia
-Simulcast: NicoNico " } ] },]},
-{ "name": " Sacred Seven ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Ayako" } ] },{ "status": "release", "detail": [ { "name": "gg" } ] },{ "status": "release", "detail": [ { "name": "Kagayaki-Hadena" } ] },{ "status": "release", "detail": [ { "name": "Shini-Subs
-Simulcast: Crunchyroll/Hulu " } ] },]},
-{ "name": " Nurarihyon no Mago: Sennen Makyou
-2nd Season ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Hatsuyuki" } ] },{ "status": "release", "detail": [ { "name": "WhyNot
-Simulcast: Viz Media/Hulu " } ] },]},
-{ "name": " Ikoku Meiro no Croisée ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Ayako" } ] },{ "status": "release", "detail": [ { "name": "Interrobang" } ] },{ "status": "release", "detail": [ { "name": "Nemui" } ] },{ "status": "release", "detail": [ { "name": "Ahodomo" } ] },{ "status": "release", "detail": [ { "name": "Kuudere
-Simulcast: The Anime Network " } ] },]},
-{ "name": " Natsume Yuujin-Chou San
-3rd Season ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Commie" } ] },{ "status": "release", "detail": [ { "name": "Hatsuyuki" } ] },{ "status": "release", "detail": [ { "name": "NoGrp" } ] },{ "status": "release", "detail": [ { "name": "WoodBridge
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Kaitou Tenshi Twin Angel: Kyun Kyun Tokimeki Paradise!!
-Preview Airing: NicoNicoDouga 7/2 @ 22:10 ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " RandomRemux" } ] },{ "status": "release", "detail": [ { "name": "Chiki
-Simulcast: Crunchyroll/NicoNico " } ] },]},
-{ "name": " Yuru Yuri ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Coalgirls" } ] },{ "status": "release", "detail": [ { "name": "AFFTW" } ] },{ "status": "release", "detail": [ { "name": "Anime-DS" } ] },{ "status": "release", "detail": [ { "name": "Asuka-subs" } ] },{ "status": "release", "detail": [ { "name": "SHiN-gx" } ] },{ "status": "release", "detail": [ { "name": "Tonde
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Kamisama Dolls ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Chihiro" } ] },{ "status": "release", "detail": [ { "name": "CTSS" } ] },{ "status": "release", "detail": [ { "name": "Doki
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Morita-san wa Mukuchi TV ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " AFFTW" } ] },{ "status": "release", "detail": [ { "name": "Hadena" } ] },{ "status": "release", "detail": [ { "name": "HiNA" } ] },{ "status": "release", "detail": [ { "name": "Ruri" } ] },{ "status": "release", "detail": [ { "name": "SHiN-gx
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Nyanpire The Animation ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " AonE" } ] },{ "status": "release", "detail": [ { "name": "Nutbladder" } ] },{ "status": "release", "detail": [ { "name": "WhyNot" } ] },{ "status": "release", "detail": [ { "name": "Ruri? " } ] },]},
-{ "name": " Usagi Drop
-noitaminA Block ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Chihiro" } ] },{ "status": "release", "detail": [ { "name": "Commie" } ] },{ "status": "release", "detail": [ { "name": "Doki" } ] },{ "status": "release", "detail": [ { "name": "Hatsuyuki" } ] },{ "status": "release", "detail": [ { "name": "Oyatsu" } ] },{ "status": "release", "detail": [ { "name": "Taka" } ] },{ "status": "release", "detail": [ { "name": "WoodBridge
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " No. 6
-noitaminA Block ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Doki" } ] },{ "status": "release", "detail": [ { "name": "Hatsuyuki-Hadena" } ] },{ "status": "release", "detail": [ { "name": "Ruri" } ] },{ "status": "release", "detail": [ { "name": "gg
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " THE iDOLM@STER ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Chibiki" } ] },{ "status": "release", "detail": [ { "name": "Doki" } ] },{ "status": "release", "detail": [ { "name": "MATV-EveTaku" } ] },{ "status": "release", "detail": [ { "name": "Nuke
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Blood-C
-Preview Airing: NicoNicoDouga 7/1 @ 19:40 ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Doki" } ] },{ "status": "release", "detail": [ { "name": "GX_ST" } ] },{ "status": "release", "detail": [ { "name": "Herp" } ] },{ "status": "release", "detail": [ { "name": "Underwater
-Simulcast: NicoNico " } ] },]},
-{ "name": " Mayo Chiki! ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Ayako" } ] },{ "status": "release", "detail": [ { "name": "Doki" } ] },{ "status": "release", "detail": [ { "name": "Interrobang" } ] },{ "status": "release", "detail": [ { "name": "WhyNot" } ] },{ "status": "release", "detail": [ { "name": "Chiki " } ] },]},
-{ "name": " Mawaru Penguindrum ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " gg" } ] },{ "status": "release", "detail": [ { "name": "Nutbladder" } ] },{ "status": "release", "detail": [ { "name": "ZUM " } ] },]},
-{ "name": " Baka to Test to Shoukanjuu Ni!
-2nd Season ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Commie" } ] },{ "status": "release", "detail": [ { "name": "Doki-SGKK" } ] },{ "status": "release", "detail": [ { "name": "FFFpeeps" } ] },{ "status": "release", "detail": [ { "name": "Hatsuyuki
-Simulcast: FUNimation " } ] },]},
-{ "name": " Itsuka Tenma no Kuro-Usagi ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " AFFTW" } ] },{ "status": "release", "detail": [ { "name": "Derp" } ] },{ "status": "release", "detail": [ { "name": "WhyNot" } ] },{ "status": "release", "detail": [ { "name": "Chiki
-Simulcast: Crunchyroll/NicoNico " } ] },]},
-{ "name": " Nekogami Yaoyorozu ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " FFFpeeps" } ] },{ "status": "release", "detail": [ { "name": "WhyNot
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " R-15 ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Fail-15" } ] },{ "status": "release", "detail": [ { "name": "Zenyaku" } ] },{ "status": "release", "detail": [ { "name": "Chiki" } ] },{ "status": "release", "detail": [ { "name": "Commie" } ] },{ "status": "release", "detail": [ { "name": "NotSoHorrible
-Simulcast: Crunchyroll/NicoNico " } ] },]},
-{ "name": " Manyuu Hiken-chou ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Hiryuu-Kira" } ] },{ "status": "release", "detail": [ { "name": "SubDESU" } ] },{ "status": "release", "detail": [ { "name": "Hadena-Kagayaki " } ] },]},
-{ "name": " Dantalian no Shoka
-Preview Special: TV Tokyo 07/08 @ 24:00 ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Commie" } ] },{ "status": "release", "detail": [ { "name": "Hatsuyuki" } ] },{ "status": "release", "detail": [ { "name": "m.3.3.w" } ] },{ "status": "release", "detail": [ { "name": "Whine-Subs
-Simulcast: Crunchyroll/NicoNico " } ] },]},
-{ "name": " Copihan
-One episode every two weeks ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Zenyaku " } ] },]},
-{ "name": " Tantei Opera Milky Holmes Special
-TV Special ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " KiteSeekers-Wasurenai" } ] },{ "status": "release", "detail": [ { "name": "WoodBridge? " } ] },]}
+{
+  "name": "name",
+  "group": "group",
+  "message": "This list is empty.<br>Feel free to contribute.",
+  "lbl_tv": "TV",
+  "lbl_ova": "OVA/ONA/Special",
+  "lbl_movie": "Movies",
+  "tv": [
+    {
+      "name": "Baka to Test to Shoukanjuu Ni!",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Commie"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Doki"
+            },
+            {
+              "name": "SGKK"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "FFFpeeps"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Hatsuyuki"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "FUNimation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blade",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Midnight-Sons"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blood-C",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Doki"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "GX_ST"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Herp"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Underwater Simulcast: NicoNico"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "NicoNico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Copihan",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Zenyaku"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dantalian no Shoka",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Commie"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Hatsuyuki"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "m.3.3.w"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Whine-Subs"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "Crunchyroll"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "NicoNico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Double-J",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Hiryuu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ganbare!! Nattou-san",
+      "image": "",
+      "group": []
+    },
+    {
+      "name": "Ikoku Meiro no Croisée",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Ayako"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Interrobang"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Nemui"
+            }
+          ]
+        },
+        {
+          "status": "dropped",
+          "detail": [
+            {
+              "name": "Ahodomo"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "The Anime Network"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inumarudashi",
+      "image": "",
+      "group": []
+    },
+    {
+      "name": "Itsuka Tenma no Kuro-Usagi",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "AFFTW"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Derp"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "WhyNot"
+            }
+          ]
+        },
+        {
+          "status": "dropped",
+          "detail": [
+            {
+              "name": "Chiki"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "Crunchyroll"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "NicoNico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kaitou Tenshi Twin Angel: Kyun Kyun Tokimeki Paradise!!",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "RandomRemux"
+            }
+          ]
+        },
+        {
+          "status": "dropped",
+          "detail": [
+            {
+              "name": "Chiki Simulcast: Crunchyroll/NicoNico"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "Crunchyroll"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "NicoNico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kamisama Dolls",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Chihiro"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "CTSS"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Doki"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "Crunchyroll"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kami-sama no Memo-chou",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Chihiro"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "EveTaku"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Tokimeki"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "UTW"
+            }
+          ]
+        },
+        {
+          "status": "dropped",
+          "detail": [
+            {
+              "name": "gg"
+            }
+          ]
+        },
+        {
+          "status": "dropped",
+          "detail": [
+            {
+              "name": "Monokage"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "The Anime Network"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kayochu",
+      "image": "",
+      "group": []
+    },
+    {
+      "name": "Manyuu Hiken-chou",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Hiryuu-Kira"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "SubDESU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mawaru Penguindrum",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "gg"
+            }
+          ]
+        },
+        {
+          "status": "dropped",
+          "detail": [
+            {
+              "name": "Hadena"
+            }
+          ]
+        },
+        {
+          "status": "dropped",
+          "detail": [
+            {
+              "name": "Nutbladder"
+            }
+          ]
+        },
+        {
+          "status": "dropped",
+          "detail": [
+            {
+              "name": "ZUM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mayo Chiki!",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Ayako"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Doki"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Interrobang"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "WhyNot"
+            }
+          ]
+        },
+        {
+          "status": "dropped",
+          "detail": [
+            {
+              "name": "Chiki"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MonHun Nikki Girigiri Airu Mura G",
+      "image": "",
+      "group": []
+    },
+    {
+      "name": "Morita-san wa Mukuchi TV",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "AFFTW"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Hadena"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "HiNA"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Ruri"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "SHiN-gx"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "Crunchyroll"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Natsume Yuujin-Chou San",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Commie"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Hatsuyuki"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "NoGrp"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "Crunchyroll"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nekogami Yaoyorozu",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "FFFpeeps"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "WhyNot"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "Crunchyroll"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "No. 6",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Doki"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Hadena"
+            },
+            {
+              "name": "Hatsuyuki"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Ruri"
+            }
+          ]
+        },
+        {
+          "status": "dropped",
+          "detail": [
+            {
+              "name": "gg"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "Crunchyroll"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nurarihyon no Mago: Sennen Makyou",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Hatsuyuki"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "WhyNot"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "Hulu"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "Viz Media"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nyanpire The Animation",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "AonE"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Nutbladder"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "WhyNot"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "R-15",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Fail-15"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Zenyaku"
+            }
+          ]
+        },
+        {
+          "status": "dropped",
+          "detail": [
+            {
+              "name": "Chiki"
+            }
+          ]
+        },
+        {
+          "status": "dropped",
+          "detail": [
+            {
+              "name": "Commie"
+            }
+          ]
+        },
+        {
+          "status": "dropped",
+          "detail": [
+            {
+              "name": "NotSoHorrible Simulcast: Crunchyroll/NicoNico"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "Crunchyroll"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "NicoNico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rou-Kyuu-Bu!",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Ahodomo"
+            },
+            {
+              "name": "Evetaku"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Doki"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Hadena"
+            },
+            {
+              "name": "Hatsuyuki"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Hiryuu"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Shikkaku"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "The Anime Network"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sacred Seven",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Ayako"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "gg"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Hadena"
+            },
+            {
+              "name": "Kagayaki"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Shini-Subs"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "Crunchyroll"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "Hulu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tantei Opera Milky Holmes Special",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "KiteSeekers-Wasurenai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "THE iDOLM@STER",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Chibiki"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Doki"
+            }
+          ]
+        },
+        {
+          "status": "dropped",
+          "detail": [
+            {
+              "name": "EveTaku"
+            },
+            {
+              "name": "MATV"
+            }
+          ]
+        },
+        {
+          "status": "dropped",
+          "detail": [
+            {
+              "name": "Nuke"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "Crunchyroll"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Usagi Drop",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Chihiro"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Commie"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Doki"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Hatsuyuki"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Oyatsu"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Taka"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "Crunchyroll"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Uta no Prince-sama - Maji Love 1000%",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "NyanTaku"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "WhyNot"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Vyrsalia"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "NicoNico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yuru Yuri",
+      "image": "",
+      "group": [
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Coalgirls"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "AFFTW"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Anime-DS"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Asuka-subs"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "SHiN-gx"
+            }
+          ]
+        },
+        {
+          "status": "release",
+          "detail": [
+            {
+              "name": "Tonde"
+            }
+          ]
+        },
+        {
+          "status": "simulcast",
+          "detail": [
+            {
+              "name": "Crunchyroll"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
