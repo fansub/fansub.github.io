@@ -39,7 +39,7 @@ function writeList(id, actual_title, arr){
 	writeDataInnerHtml('list', data);
 }
 
-function readListJsonFile(link) {
+function readListJsonFile(link, lang) {
 	var req = new XMLHttpRequest();
 	req.open('GET', URL_DATA + lang + "/" + link, true); //true for asynchronous
 
@@ -84,9 +84,9 @@ function readListJsonFile(link) {
 				readJsonFile(lang + "/" + url, SEASON);
 				writeMessage('title', document.title);
 				writeList('seasonlist', document.title, dataJson);
-				addOnClick('tv', url, 0);
-				addOnClick('ova', url, 1);
-				addOnClick('movie', url, 2);
+				addOnClick('tv', lang + "/" + url, 0);
+				addOnClick('ova', lang + "/" + url, 1);
+				addOnClick('movie', lang + "/" + url, 2);
 			}
 			else {
 				writeLog("Fails to load data");
