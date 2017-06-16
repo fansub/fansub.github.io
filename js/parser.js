@@ -41,7 +41,7 @@ function writeList(id, actual_title, arr){
 
 function readListJsonFile(link) {
 	var req = new XMLHttpRequest();
-	req.open('GET', link, true); //true for asynchronous
+	req.open('GET', URL_DATA + lang + "/" + link, true); //true for asynchronous
 
 	req.onreadystatechange = function () {
 		if (req.readyState == 4) { //4 == XMLHttpRequest.DONE ie8+
@@ -81,7 +81,7 @@ function readListJsonFile(link) {
 						writeDataInnerHtml('warning', warningTemplate(objJson.msg_all + ' ' + capitalizeFirstLetter(seasonObj.title) + " " + yearObj.year));
 					}
 				}
-				readJsonFile(url, SEASON);
+				readJsonFile(lang + "/" + url, SEASON);
 				writeMessage('title', document.title);
 				writeList('seasonlist', document.title, dataJson);
 				addOnClick('tv', url, 0);
