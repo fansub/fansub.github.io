@@ -1,78 +1,899 @@
-{ "name": " Name ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Groups " } ] },]},
-{ "name": " Plastic Nee-san ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Kagayaki" } ] },{ "status": "release", "detail": [ { "name": "ReTouched " } ] },]},
-{ "name": " Battle Spirits Heroes ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " " } ] },]},
-{ "name": " Busou Shinki Moon Angel
-Preview Airing: Youtube 9/8 ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Commie" } ] },{ "status": "release", "detail": [ { "name": "Zenyaku " } ] },]},
-{ "name": " Peeping Life -The Perfect Extension-
-4th Season ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " " } ] },]},
-{ "name": " Shinryaku!? Ika Musume
-2nd Season, On Break 10/24 & 11/7 ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " AQUA" } ] },{ "status": "release", "detail": [ { "name": "FFFpeeps" } ] },{ "status": "release", "detail": [ { "name": "Underwater" } ] },{ "status": "release", "detail": [ { "name": "WhyNot" } ] },{ "status": "release", "detail": [ { "name": "EZsubs
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Bakuman. 2
-2nd Season ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " GotWoot" } ] },{ "status": "release", "detail": [ { "name": "SFW-sage" } ] },{ "status": "release", "detail": [ { "name": "TMD-A_Destiny " } ] },]},
-{ "name": " C³ ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Hadena" } ] },{ "status": "release", "detail": [ { "name": "Hatsuyuki" } ] },{ "status": "release", "detail": [ { "name": "UTW" } ] },{ "status": "release", "detail": [ { "name": "Commie" } ] },{ "status": "release", "detail": [ { "name": "&
-Simulcast: Funico " } ] },]},
-{ "name": " Working´!!
-2nd Season, Preview Airing: Tokyo MX/Tochigi TV/Gunma TV 9/3 @ 23:30 ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " FFFpeeps" } ] },{ "status": "release", "detail": [ { "name": "m.3.3.w" } ] },{ "status": "release", "detail": [ { "name": "Shini-subs" } ] },{ "status": "release", "detail": [ { "name": "SHiN-gx" } ] },{ "status": "release", "detail": [ { "name": "Ayako-Himatsubushi" } ] },{ "status": "release", "detail": [ { "name": "gg
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Fate/Zero
-Prequel to Fate/Stay Night, Episode 1 is one hour special ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Commie" } ] },{ "status": "release", "detail": [ { "name": "Hatsuyuki" } ] },{ "status": "release", "detail": [ { "name": "UTW
-Simulcast: Nico Nico Douga/Crunchyroll (CR 1 week late) " } ] },]},
-{ "name": " Maji de Watashi ni Koi Shinasai!! ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Ahodomo" } ] },{ "status": "release", "detail": [ { "name": "Hiryuu
-Simulcast: Crunchyroll (1 week late) " } ] },]},
-{ "name": " Kyoukai Senjou no Horizon ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Commie" } ] },{ "status": "release", "detail": [ { "name": "Hadena" } ] },{ "status": "release", "detail": [ { "name": "Shini-subs" } ] },{ "status": "release", "detail": [ { "name": "NEET-Gatari
-Simulcast: The Anime Network (3 days late)/Crunchyroll (10 days late) " } ] },]},
-{ "name": " Digimon Xros Wars: Toki o Kakeru Shounen Hunter-tachi
-3rd Season ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Critter-Subs" } ] },{ "status": "release", "detail": [ { "name": "OnlineDigimon" } ] },{ "status": "release", "detail": [ { "name": "SubDESU" } ] },{ "status": "release", "detail": [ { "name": "Wildbunch
-Simulcast: Crunchyroll (latecast?) " } ] },]},
-{ "name": " Cross Fight B-Daman ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Gimme " } ] },]},
-{ "name": " Hunter x Hunter (2011)
-Series Remake ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " sayonara-group" } ] },{ "status": "release", "detail": [ { "name": "SD-Taka" } ] },{ "status": "release", "detail": [ { "name": "tidal~" } ] },{ "status": "release", "detail": [ { "name": "Tsuki
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Phi Brain: Kami no Puzzle ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " SubDESU" } ] },{ "status": "release", "detail": [ { "name": "WhyNot
-Simulcast: The Anime Network (3 days late) " } ] },]},
-{ "name": " Fujilog Season 2
-2nd Season ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " " } ] },]},
-{ "name": " Tamayura: Hitotose ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " AnxiousHelium" } ] },{ "status": "release", "detail": [ { "name": "Nishishi-Evetaku" } ] },{ "status": "release", "detail": [ { "name": "Oyatsu" } ] },{ "status": "release", "detail": [ { "name": "UTW-Mazui " } ] },]},
-{ "name": " Kimi to Boku. ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " CTSS" } ] },{ "status": "release", "detail": [ { "name": "sage" } ] },{ "status": "release", "detail": [ { "name": "Yagami
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Sengoku Paradise: Kiwami ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " " } ] },]},
-{ "name": " Chihayafuru ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Commie" } ] },{ "status": "release", "detail": [ { "name": "NyanTaku" } ] },{ "status": "release", "detail": [ { "name": "Rising Sun" } ] },{ "status": "release", "detail": [ { "name": "Saitei
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Maken-ki! ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " FFFpeeps" } ] },{ "status": "release", "detail": [ { "name": "Hatsuyuki" } ] },{ "status": "release", "detail": [ { "name": "Hiryuu" } ] },{ "status": "release", "detail": [ { "name": "Josei-Shini
-Simulcast: Funico " } ] },]},
-{ "name": " Mashiro-iro Symphony: The Color of Lovers ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Doki-Chihiro" } ] },{ "status": "release", "detail": [ { "name": "Oyatsu" } ] },{ "status": "release", "detail": [ { "name": "Zenyaku-ACIFT" } ] },{ "status": "release", "detail": [ { "name": "Myon
-Simulcast: Crunchyroll (4 days late) " } ] },]},
-{ "name": " Persona 4 The Animation ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Commie" } ] },{ "status": "release", "detail": [ { "name": "Doki" } ] },{ "status": "release", "detail": [ { "name": "Hatsuyuki-CTSS" } ] },{ "status": "release", "detail": [ { "name": "Ruri" } ] },{ "status": "release", "detail": [ { "name": "Tarot
-Simulcast: The Anime Network/Hulu " } ] },]},
-{ "name": " Boku wa Tomodachi ga Sukunai ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Chihiro" } ] },{ "status": "release", "detail": [ { "name": "Doki" } ] },{ "status": "release", "detail": [ { "name": "Mazui" } ] },{ "status": "release", "detail": [ { "name": "Commie" } ] },{ "status": "release", "detail": [ { "name": "EveTaku" } ] },{ "status": "release", "detail": [ { "name": "Hatsuyuki
-Simulcast: FUNimation (3 weeks late) " } ] },]},
-{ "name": " Sekai-ichi Hatsukoi 2
-2nd Season ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " sage" } ] },{ "status": "release", "detail": [ { "name": "Sekai
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Shakugan no Shana III (Final)
-3rd Season ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Commie" } ] },{ "status": "release", "detail": [ { "name": "SS-Eclipse" } ] },{ "status": "release", "detail": [ { "name": "Doki" } ] },{ "status": "release", "detail": [ { "name": "Okashii
-Simulcast: Funico (1 week late) " } ] },]},
-{ "name": " Ben-To
-Preview Airing: Nico Nico Douga 10/4 ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " EveTaku" } ] },{ "status": "release", "detail": [ { "name": "gg" } ] },{ "status": "release", "detail": [ { "name": "Shikkaku " } ] },]},
-{ "name": " Kidou Senshi Gundam AGE ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Anime-Gundam" } ] },{ "status": "release", "detail": [ { "name": "sage" } ] },{ "status": "release", "detail": [ { "name": "THORA
-Simulcast: Gundam.info " } ] },]},
-{ "name": " Mirai Nikki TV ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Commie" } ] },{ "status": "release", "detail": [ { "name": "GotSpeed/GotWoot" } ] },{ "status": "release", "detail": [ { "name": "Static-Subs" } ] },{ "status": "release", "detail": [ { "name": "Interrobang
-Simulcast: Funico " } ] },]},
-{ "name": " Chibi Devi! ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Doki" } ] },{ "status": "release", "detail": [ { "name": "Shadow Subs" } ] },{ "status": "release", "detail": [ { "name": "Zenyaku " } ] },]},
-{ "name": " Gdgd Fairies ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Simulcast: Crunchyroll " } ] },]},
-{ "name": " UN-GO
-noitaminA Block ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " CCS-Hadena" } ] },{ "status": "release", "detail": [ { "name": "Commie" } ] },{ "status": "release", "detail": [ { "name": "Doki
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Guilty Crown
-noitaminA Block ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " CoalGuys" } ] },{ "status": "release", "detail": [ { "name": "Commie" } ] },{ "status": "release", "detail": [ { "name": "Doki" } ] },{ "status": "release", "detail": [ { "name": "Tsuki-Hatsuyuki" } ] },{ "status": "release", "detail": [ { "name": "Darksoul-Subs" } ] },{ "status": "release", "detail": [ { "name": "Monogatari
-Simulcast: Funico " } ] },]},
-{ "name": " Last Exile: Ginyoku no Fam
-2nd Series, Interview Preview: CBC/TBS 10/7 ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " ACIFT" } ] },{ "status": "release", "detail": [ { "name": "Commie" } ] },{ "status": "release", "detail": [ { "name": "Tormaid" } ] },{ "status": "release", "detail": [ { "name": "SFWhine
-Simulcast: Funico/Hulu (3 days late) " } ] },]},
-{ "name": " Ad Lib Anime Kenkyuusho ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " EveTaku " } ] },]},
-{ "name": " Hidamari Sketch x SP
-Part 1 ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " AFFTW" } ] },{ "status": "release", "detail": [ { "name": "Nutbladder" } ] },{ "status": "release", "detail": [ { "name": "AonE " } ] },]},
-{ "name": " Hidamari Sketch x SP
-Part 2 ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " AFFTW" } ] },{ "status": "release", "detail": [ { "name": "Nutbladder" } ] },{ "status": "release", "detail": [ { "name": "AonE " } ] },]},
-{ "name": " High Score ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Shoukaku " } ] },]}
+{
+	"name": "name",
+	"group": "fansub group",
+	"lbl_tv": "TV",
+	"lbl_ova": "OVA/ONA/Special",
+	"lbl_movie": "Movie",
+	"message": "This list is empty! <br>Don't hesitate to submit a PR.",
+	"tv": [{
+			"name": " Ad Lib Anime Kenkyuusho ",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": " EveTaku "
+				}]
+			}]
+		},
+		{
+			"name": " Bakuman. 2",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " GotWoot"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "SFW-sage"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "TMD-A_Destiny "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Battle Spirits Heroes ",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": " "
+				}]
+			}]
+		},
+		{
+			"name": " Ben-To",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " EveTaku"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "gg"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shikkaku "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Boku wa Tomodachi ga Sukunai ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " Chihiro"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Doki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Mazui"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "EveTaku"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki Simulcast: FUNimation "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Busou Shinki Moon Angel",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Zenyaku "
+					}]
+				}
+			]
+		},
+		{
+			"name": " C³ ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "UTW"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "& Simulcast: Funico "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Chihayafuru ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "NyanTaku"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Rising Sun"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Saitei Simulcast: Crunchyroll "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Cross Fight B-Daman ",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": " Gimme "
+				}]
+			}]
+		},
+		{
+			"name": " Digimon Xros Wars: Toki o Kakeru Shounen Hunter-tachi 3rd Season ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " Critter-Subs"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "OnlineDigimon"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "SubDESU"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Wildbunch Simulcast: Crunchyroll "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Fate/Zero",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "UTW Simulcast: Nico Nico Douga/Crunchyroll "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Fujilog Season 2 ",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": " "
+				}]
+			}]
+		},
+		{
+			"name": " Hunter x Hunter (2011) ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " sayonara-group"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "SD-Taka"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "tidal~"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Tsuki Simulcast: Crunchyroll "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Kidou Senshi Gundam AGE ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " Anime-Gundam"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "sage"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "THORA Simulcast: Gundam.info "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Kimi to Boku. ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " CTSS"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "sage"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Yagami Simulcast: Crunchyroll "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Kyoukai Senjou no Horizon ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shini-subs"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "NEET-Gatari Simulcast: The Anime Network /Crunchyroll "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Maji de Watashi ni Koi Shinasai!! ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " Ahodomo"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hiryuu Simulcast: Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": " Maken-ki! ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " FFFpeeps"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hiryuu"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Josei-Shini Simulcast: Funico "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Mashiro-iro Symphony: The Color of Lovers ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " Doki-Chihiro"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Oyatsu"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Zenyaku-ACIFT"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Myon Simulcast: Crunchyroll "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Peeping Life -The Perfect Extension- 4th Season ",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": " "
+				}]
+			}]
+		},
+		{
+			"name": " Persona 4 The Animation ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Doki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki-CTSS"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Ruri"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Tarot Simulcast: The Anime Network/Hulu "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Phi Brain: Kami no Puzzle ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " SubDESU"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "WhyNot Simulcast: The Anime Network  "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Plastic Nee-san ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " Kagayaki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "ReTouched "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Sekai-ichi Hatsukoi 2 ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " sage"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Sekai Simulcast: Crunchyroll "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Sengoku Paradise: Kiwami ",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": " "
+				}]
+			}]
+		},
+		{
+			"name": " Shakugan no Shana III (Final) ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "SS-Eclipse"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Doki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Okashii Simulcast: Funico "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Shinryaku!? Ika Musume 2nd Season",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " AQUA"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "FFFpeeps"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Underwater"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "WhyNot"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "EZsubs Simulcast: Crunchyroll "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Tamayura: Hitotose ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " AnxiousHelium"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Nishishi-Evetaku"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Oyatsu"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "UTW-Mazui "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Working´!! ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " FFFpeeps"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "m.3.3.w"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shini-subs"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "SHiN-gx"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Ayako-Himatsubushi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "gg Simulcast: Crunchyroll "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Mirai Nikki TV ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "GotSpeed/GotWoot"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Static-Subs"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Interrobang Simulcast: Funico "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Chibi Devi! ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " Doki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shadow Subs"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Zenyaku "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Gdgd Fairies ",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": " Simulcast: Crunchyroll "
+				}]
+			}]
+		},
+		{
+			"name": " UN-GO ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " CCS-Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Doki Simulcast: Crunchyroll "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Guilty Crown ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " CoalGuys"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Doki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Tsuki-Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Darksoul-Subs"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Monogatari Simulcast: Funico "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Last Exile: Ginyoku no Fam 2nd Series, Interview Preview: CBC/TBS 10/7 ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " ACIFT"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Tormaid"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "SFWhine Simulcast: Funico/Hulu "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Hidamari Sketch x SP Part 1 ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " AFFTW"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Nutbladder"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "AonE "
+					}]
+				}
+			]
+		},
+		{
+			"name": " Hidamari Sketch x SP Part 2 ",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": " AFFTW"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Nutbladder"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "AonE "
+					}]
+				}
+			]
+		},
+		{
+			"name": " High Score ",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": " Shoukaku "
+				}]
+			}]
+		}
+	]
+}
