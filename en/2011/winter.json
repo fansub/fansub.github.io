@@ -1,62 +1,723 @@
-{ "name": " Name ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Groups " } ] },]},
-{ "name": " Lupin Sansei: Chi no Kokuin - Eien no Mermaid
-TV Special ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " sage " } ] },]},
-{ "name": " Kyousougiga ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Commie" } ] },{ "status": "release", "detail": [ { "name": "EveTaku " } ] },]},
-{ "name": " Natsume Yuujinchou Shi
-4th Season ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Commie" } ] },{ "status": "release", "detail": [ { "name": "Hatsuyuki
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Shin Tennis no Ouji-sama
-Continuation of Tennis no Ouji-sama ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " O-L
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Tantei Opera Milky Holmes Season 2
-2nd Season, Preview Airing: Tokyo MX 12/31 @ 20:00 ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " KiteSeekers-Wasurenai" } ] },{ "status": "release", "detail": [ { "name": "Muteki
-Simulcast: Funico (Super Latecast) " } ] },]},
-{ "name": " Recorder to Randoseru
-Leading Station changed to KBS Kyoto as of Episode 2 ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " CMS" } ] },{ "status": "release", "detail": [ { "name": "CTSS-STINX" } ] },{ "status": "release", "detail": [ { "name": "Hadena" } ] },{ "status": "release", "detail": [ { "name": "NWTC
-Simulcast: Crunchyroll (2 days late) " } ] },]},
-{ "name": " Kill Me Baby ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " ESC-ShinBunBu" } ] },{ "status": "release", "detail": [ { "name": "UTW-Mazui" } ] },{ "status": "release", "detail": [ { "name": "Muteki " } ] },]},
-{ "name": " Amagami SS Plus
-2nd Season ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Chihiro" } ] },{ "status": "release", "detail": [ { "name": "UTW" } ] },{ "status": "release", "detail": [ { "name": "Hatsuyuki " } ] },]},
-{ "name": " High School DxD ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " AFFTW-Hatsuyuki" } ] },{ "status": "release", "detail": [ { "name": "Hadena" } ] },{ "status": "release", "detail": [ { "name": "Hiryuu" } ] },{ "status": "release", "detail": [ { "name": "Shikkaku" } ] },{ "status": "release", "detail": [ { "name": "SubDESU-Katana
-Simulcast: Funico (Super Latecast) " } ] },]},
-{ "name": " Senki Zesshou Symphogear ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " gg" } ] },{ "status": "release", "detail": [ { "name": "Ayako" } ] },{ "status": "release", "detail": [ { "name": "Commie" } ] },{ "status": "release", "detail": [ { "name": "GetWet" } ] },{ "status": "release", "detail": [ { "name": "AnimeTL
-Simulcast: Funico (Super Latecast) " } ] },]},
-{ "name": " Area no Kishi ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Oyatsu" } ] },{ "status": "release", "detail": [ { "name": "Zenyaku
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Zero no Tsukaima F
-4th Season ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Hadena" } ] },{ "status": "release", "detail": [ { "name": "JC-SHiN-gx" } ] },{ "status": "release", "detail": [ { "name": "Commie" } ] },{ "status": "release", "detail": [ { "name": "SS
-Simulcast: Crunchyroll (2 days late) " } ] },]},
-{ "name": " Nisemonogatari
-Sequel to Bakemonogatari ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Commie" } ] },{ "status": "release", "detail": [ { "name": "Shini-subs" } ] },{ "status": "release", "detail": [ { "name": "CMS" } ] },{ "status": "release", "detail": [ { "name": "UTW" } ] },{ "status": "release", "detail": [ { "name": "AnimeTL
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Moretsu Uchuu Kaizoku ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Commie" } ] },{ "status": "release", "detail": [ { "name": "EC" } ] },{ "status": "release", "detail": [ { "name": "WhyNot
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Brave10 ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Doki" } ] },{ "status": "release", "detail": [ { "name": "Hadena" } ] },{ "status": "release", "detail": [ { "name": "Hiryuu" } ] },{ "status": "release", "detail": [ { "name": "Hatsuyuki
-Simulcast: Crunchyroll (3 days late) " } ] },]},
-{ "name": " Poyopoyo Kansatsu Nikki
-Leak/Accidental Posting: Nico Nico Douga 01/05 13:00 ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Muteki" } ] },{ "status": "release", "detail": [ { "name": "Orenji" } ] },{ "status": "release", "detail": [ { "name": "WhyNot
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Rinne no Lagrange
-Preview Airing: Nico Nico Douga 12/25 @ 20:00 ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Commie" } ] },{ "status": "release", "detail": [ { "name": "Underwater" } ] },{ "status": "release", "detail": [ { "name": "ESC-ShinBunBu
-Simulcast: Viz Media " } ] },]},
-{ "name": " Aquarion Evol
-Two-Episode Premiere ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " gg" } ] },{ "status": "release", "detail": [ { "name": "FFFpeeps " } ] },]},
-{ "name": " Ano Natsu de Matteru ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " CoalGuys" } ] },{ "status": "release", "detail": [ { "name": "Commie" } ] },{ "status": "release", "detail": [ { "name": "ESC-ShinBunBu" } ] },{ "status": "release", "detail": [ { "name": "NSLM" } ] },{ "status": "release", "detail": [ { "name": "Hayaku" } ] },{ "status": "release", "detail": [ { "name": "Chihiro
-Simulcast: Crunchyroll (2 days late) " } ] },]},
-{ "name": " Another ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Commie" } ] },{ "status": "release", "detail": [ { "name": "Hadena" } ] },{ "status": "release", "detail": [ { "name": "Underwater" } ] },{ "status": "release", "detail": [ { "name": "WhyNot" } ] },{ "status": "release", "detail": [ { "name": "AniYoshi" } ] },{ "status": "release", "detail": [ { "name": "Taka" } ] },{ "status": "release", "detail": [ { "name": "CTSS
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Danshi Koukousei no Nichijou
-Preview Specials: Bandai Channel/Nico Nico Douga ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " sage" } ] },{ "status": "release", "detail": [ { "name": "TastyMelon " } ] },]},
-{ "name": " Papa no Iu Koto o Kikinasai ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " rori" } ] },{ "status": "release", "detail": [ { "name": "Doki" } ] },{ "status": "release", "detail": [ { "name": "Pettanko" } ] },{ "status": "release", "detail": [ { "name": "Shin-S" } ] },{ "status": "release", "detail": [ { "name": "Hatsuyuki" } ] },{ "status": "release", "detail": [ { "name": "Oyatsu
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Thermae Romae
-noitaminA Block ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " gg" } ] },{ "status": "release", "detail": [ { "name": "Nutbladder" } ] },{ "status": "release", "detail": [ { "name": "WhyNot " } ] },]},
-{ "name": " Inu x Boku SS ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " EveTaku" } ] },{ "status": "release", "detail": [ { "name": "Hadena" } ] },{ "status": "release", "detail": [ { "name": "Commie" } ] },{ "status": "release", "detail": [ { "name": "Zenyaku
-Simulcast: Crunchyroll " } ] },]},
-{ "name": " Danball Senki W ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " " } ] },]},
-{ "name": " Gokujo
-Episodes 1, 3, 5, 10 not aired on TV. Later streamed on DMM.com. ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " CMS " } ] },]},
-{ "name": " Black Rock Shooter (2012)
-noitaminA Block ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " AFFTW-Hatsuyuki" } ] },{ "status": "release", "detail": [ { "name": "Asenshi" } ] },{ "status": "release", "detail": [ { "name": "AsukaSubs" } ] },{ "status": "release", "detail": [ { "name": "CCS" } ] },{ "status": "release", "detail": [ { "name": "Commie" } ] },{ "status": "release", "detail": [ { "name": "Nishishi-subs" } ] },{ "status": "release", "detail": [ { "name": "WhyNot" } ] },{ "status": "release", "detail": [ { "name": "GX_ST
-Simulcast: Nico Nico Douga (1 day late) " } ] },]},
-{ "name": " Smile Precure! ", "image": "", "group": [{ "status": "release", "detail": [ { "name": " Doremi" } ] },{ "status": "release", "detail": [ { "name": "Chihiro" } ] },{ "status": "release", "detail": [ { "name": "Cure-Anxious" } ] },{ "status": "release", "detail": [ { "name": "Aesir " } ] },]},
+{
+	"name": "name",
+	"group": "group",
+	"message": "This list is empty.<br>Feel free to contribute.",
+	"lbl_tv": "TV",
+	"lbl_ova": "OVA/ONA/Special",
+	"lbl_movie": "Movies",
+	"tv": [{
+			"name": "Amagami SS Plus",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Chihiro"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "UTW"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Ano Natsu de Matteru",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "CoalGuys"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "ESC-ShinBunBu"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "NSLM"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hayaku"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Chihiro Simulcast: Crunchyroll (2 days late)"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Another",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Underwater"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "WhyNot"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "AniYoshi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Taka"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "CTSS Simulcast: Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Aquarion Evol",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "gg"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "FFFpeeps"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Area no Kishi",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Oyatsu"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Zenyaku Simulcast: Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Black Rock Shooter (2012)",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "AFFTW-Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Asenshi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "AsukaSubs"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "CCS"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Nishishi-subs"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "WhyNot"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "GX_ST Simulcast: Nico Nico Douga"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Brave10",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Doki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hiryuu"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki Simulcast: Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Danball Senki W",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": ""
+				}]
+			}]
+		},
+		{
+			"name": "Danshi Koukousei no Nichijou",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "sage"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "TastyMelon"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Gokujo",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "CMS"
+				}]
+			}]
+		},
+		{
+			"name": "High School DxD",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "AFFTW-Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hiryuu"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shikkaku"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "SubDESU-Katana Simulcast: Funico"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Inu x Boku SS",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "EveTaku"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Zenyaku Simulcast: Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Kill Me Baby",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "ESC-ShinBunBu"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "UTW-Mazui"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Muteki"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Kyousougiga",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "EveTaku"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Lupin Sansei: Chi no Kokuin - Eien no Mermaid",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "sage"
+				}]
+			}]
+		},
+		{
+			"name": "Moretsu Uchuu Kaizoku",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "EC"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "WhyNot Simulcast: Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Natsume Yuujinchou Shi",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki Simulcast: Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Nisemonogatari",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shini-subs"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "CMS"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "UTW"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "AnimeTL Simulcast: Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Papa no Iu Koto o Kikinasai",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "rori"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Doki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Pettanko"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shin-S"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Oyatsu Simulcast: Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Poyopoyo Kansatsu Nikki",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Muteki"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Orenji"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "WhyNot Simulcast: Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Recorder to Randoseru",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "CMS"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "CTSS-STINX"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "NWTC Simulcast: Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Rinne no Lagrange",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Underwater"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "ESC-ShinBunBu Simulcast: Viz Media"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Senki Zesshou Symphogear",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "gg"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Ayako"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "GetWet"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "AnimeTL Simulcast: Funico"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Shin Tennis no Ouji-sama",
+			"image": "",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "O-L Simulcast: Crunchyroll"
+				}]
+			}]
+		},
+		{
+			"name": "Smile Precure!",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Doremi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Chihiro"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Cure-Anxious"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Aesir"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Tantei Opera Milky Holmes Season 2",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "KiteSeekers-Wasurenai"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Muteki Simulcast: Funico"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Thermae Romae",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "gg"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Nutbladder"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "WhyNot"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Zero no Tsukaima F",
+			"image": "",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "JC-SHiN-gx"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "SS Simulcast: Crunchyroll"
+					}]
+				}
+			]
+		}
+	],
+	"ova": [],
+	"movie": []
+}
