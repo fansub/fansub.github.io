@@ -6,8 +6,8 @@
 	"lbl_ova": "OVA/ONA/Special",
 	"lbl_movie": "Movies",
 	"tv": [{
-			"name": "Amagami SS Plus",
-			"image": "",
+			"name": "Amagami SS+ Plus",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/33359.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -19,19 +19,19 @@
 					"detail": [{
 						"name": "UTW"
 					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Hatsuyuki"
-					}]
 				}
 			]
 		},
 		{
 			"name": "Ano Natsu de Matteru",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/59405.jpg",
 			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Chihiro"
+					}]
+				},
+				{
 					"status": "release",
 					"detail": [{
 						"name": "CoalGuys"
@@ -46,14 +46,12 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "ESC-ShinBunBu"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "NSLM"
-					}]
+							"name": "ESC"
+						},
+						{
+							"name": "ShinBunBu"
+						}
+					]
 				},
 				{
 					"status": "release",
@@ -64,18 +62,36 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Chihiro Simulcast: Crunchyroll (2 days late)"
+						"name": "NSLM"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
 					}]
 				}
 			]
 		},
 		{
 			"name": "Another",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/75509.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
+						"name": "AniYoshi"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
 						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "CTSS"
 					}]
 				},
 				{
@@ -99,26 +115,20 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "AniYoshi"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
 						"name": "Taka"
 					}]
 				},
 				{
-					"status": "release",
+					"status": "simulcast",
 					"detail": [{
-						"name": "CTSS Simulcast: Crunchyroll"
+						"name": "Crunchyroll"
 					}]
 				}
 			]
 		},
 		{
 			"name": "Aquarion Evol",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/72743.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -135,7 +145,7 @@
 		},
 		{
 			"name": "Area no Kishi",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/73987.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -145,19 +155,29 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Zenyaku Simulcast: Crunchyroll"
+						"name": "Zenyaku"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
 					}]
 				}
 			]
 		},
 		{
-			"name": "Black Rock Shooter (2012)",
-			"image": "",
+			"name": "Black★Rock Shooter (TV)",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/53909.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "AFFTW-Hatsuyuki"
-					}]
+							"name": "AFFTW"
+						},
+						{
+							"name": "Hatsuyuki"
+						}
+					]
 				},
 				{
 					"status": "release",
@@ -186,6 +206,12 @@
 				{
 					"status": "release",
 					"detail": [{
+						"name": "GX_ST"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
 						"name": "Nishishi-subs"
 					}]
 				},
@@ -196,16 +222,16 @@
 					}]
 				},
 				{
-					"status": "release",
+					"status": "simulcast",
 					"detail": [{
-						"name": "GX_ST Simulcast: Nico Nico Douga"
+						"name": "Nico Nico Douga"
 					}]
 				}
 			]
 		},
 		{
-			"name": "Brave10",
-			"image": "",
+			"name": "Brave 10",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/34043.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -225,43 +251,31 @@
 					}]
 				},
 				{
-					"status": "release",
+					"status": "simulcast",
 					"detail": [{
-						"name": "Hatsuyuki Simulcast: Crunchyroll"
+						"name": "Crunchyroll"
 					}]
 				}
 			]
 		},
 		{
 			"name": "Danball Senki W",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/4/56963.jpg",
+			"group": []
+		},
+		{
+			"name": "Danshi Koukousei no Nichijou",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/33257.jpg",
 			"group": [{
 				"status": "release",
 				"detail": [{
-					"name": ""
+					"name": "sage"
 				}]
 			}]
 		},
 		{
-			"name": "Danshi Koukousei no Nichijou",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "sage"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "TastyMelon"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Gokujo",
-			"image": "",
+			"name": "Gokujo.: Gokurakuin Joshikou Ryou Monogatari",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/35659.jpg",
 			"group": [{
 				"status": "release",
 				"detail": [{
@@ -271,12 +285,16 @@
 		},
 		{
 			"name": "High School DxD",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/2/32527.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "AFFTW-Hatsuyuki"
-					}]
+							"name": "AFFTW"
+						},
+						{
+							"name": "Hatsuyuki"
+						}
+					]
 				},
 				{
 					"status": "release",
@@ -293,21 +311,37 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Shikkaku"
-					}]
+							"name": "Katana"
+						},
+						{
+							"name": "SubDESU"
+						}
+					]
 				},
 				{
 					"status": "release",
 					"detail": [{
-						"name": "SubDESU-Katana Simulcast: Funico"
+						"name": "Shikkaku"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Funico"
 					}]
 				}
 			]
 		},
 		{
 			"name": "Inu x Boku SS",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/35893.jpg",
 			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
 					"status": "release",
 					"detail": [{
 						"name": "EveTaku"
@@ -322,31 +356,39 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Commie"
+						"name": "Zenyaku"
 					}]
 				},
 				{
-					"status": "release",
+					"status": "simulcast",
 					"detail": [{
-						"name": "Zenyaku Simulcast: Crunchyroll"
+						"name": "Crunchyroll"
 					}]
 				}
 			]
 		},
 		{
 			"name": "Kill Me Baby",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/32723.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "ESC-ShinBunBu"
-					}]
+							"name": "ESC"
+						},
+						{
+							"name": "ShinBunBu"
+						}
+					]
 				},
 				{
 					"status": "release",
 					"detail": [{
-						"name": "UTW-Mazui"
-					}]
+							"name": "Mazui"
+						},
+						{
+							"name": "UTW"
+						}
+					]
 				},
 				{
 					"status": "release",
@@ -357,35 +399,8 @@
 			]
 		},
 		{
-			"name": "Kyousougiga",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Commie"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "EveTaku"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Lupin Sansei: Chi no Kokuin - Eien no Mermaid",
-			"image": "",
-			"group": [{
-				"status": "release",
-				"detail": [{
-					"name": "sage"
-				}]
-			}]
-		},
-		{
-			"name": "Moretsu Uchuu Kaizoku",
-			"image": "",
+			"name": "Mouretsu Pirates",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/13/36247.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -401,14 +416,20 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "WhyNot Simulcast: Crunchyroll"
+						"name": "WhyNot"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
 					}]
 				}
 			]
 		},
 		{
 			"name": "Natsume Yuujinchou Shi",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/3/37449.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -418,24 +439,41 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Hatsuyuki Simulcast: Crunchyroll"
+						"name": "Hatsuyuki"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		},
+		{
+			"name": "New Prince of Tennis",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/33591.jpg",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "O-L"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
 					}]
 				}
 			]
 		},
 		{
 			"name": "Nisemonogatari",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/35619.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Shini-subs"
 					}]
 				},
 				{
@@ -447,42 +485,30 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "UTW"
+						"name": "Shini-subs"
 					}]
 				},
 				{
 					"status": "release",
 					"detail": [{
-						"name": "AnimeTL Simulcast: Crunchyroll"
+						"name": "UTW"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
 					}]
 				}
 			]
 		},
 		{
-			"name": "Papa no Iu Koto o Kikinasai",
-			"image": "",
+			"name": "Papa no Iukoto wo Kikinasai!",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/2/35039.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "rori"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
 						"name": "Doki"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Pettanko"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Shin-S"
 					}]
 				},
 				{
@@ -494,14 +520,38 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Oyatsu Simulcast: Crunchyroll"
+						"name": "Oyatsu"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Pettanko"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "rori"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Shin-S"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
 					}]
 				}
 			]
 		},
 		{
 			"name": "Poyopoyo Kansatsu Nikki",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/11/35455.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -517,48 +567,35 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "WhyNot Simulcast: Crunchyroll"
-					}]
-				}
-			]
-		},
-		{
-			"name": "Recorder to Randoseru",
-			"image": "",
-			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "CMS"
+						"name": "WhyNot"
 					}]
 				},
 				{
-					"status": "release",
+					"status": "simulcast",
 					"detail": [{
-						"name": "CTSS-STINX"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Hadena"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "NWTC Simulcast: Crunchyroll"
+						"name": "Crunchyroll"
 					}]
 				}
 			]
 		},
 		{
 			"name": "Rinne no Lagrange",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/7/50439.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
 					}]
+				},
+				{
+					"status": "dropped",
+					"detail": [{
+							"name": "ESC"
+						},
+						{
+							"name": "ShinBunBu"
+						}
+					]
 				},
 				{
 					"status": "release",
@@ -567,23 +604,17 @@
 					}]
 				},
 				{
-					"status": "release",
+					"status": "simulcast",
 					"detail": [{
-						"name": "ESC-ShinBunBu Simulcast: Viz Media"
+						"name": "Viz Media"
 					}]
 				}
 			]
 		},
 		{
-			"name": "Senki Zesshou Symphogear",
-			"image": "",
+			"name": "Senki Zesshou Symphogear: Meteoroid-Falling, Burning, and Disappear, Then...",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/42943.jpg",
 			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "gg"
-					}]
-				},
-				{
 					"status": "release",
 					"detail": [{
 						"name": "Ayako"
@@ -604,28 +635,34 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "AnimeTL Simulcast: Funico"
+						"name": "gg"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Funico"
 					}]
 				}
 			]
 		},
 		{
-			"name": "Shin Tennis no Ouji-sama",
-			"image": "",
-			"group": [{
-				"status": "release",
-				"detail": [{
-					"name": "O-L Simulcast: Crunchyroll"
-				}]
-			}]
-		},
-		{
 			"name": "Smile Precure!",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/76179.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "Doremi"
+							"name": "Anxious"
+						},
+						{
+							"name": "Cure"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Aesir"
 					}]
 				},
 				{
@@ -637,37 +674,41 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Cure-Anxious"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "Aesir"
+						"name": "Doremi"
 					}]
 				}
 			]
 		},
 		{
-			"name": "Tantei Opera Milky Holmes Season 2",
-			"image": "",
+			"name": "Tantei Opera Milky Holmes Dai 2 Maku",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/2/35372.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
-						"name": "KiteSeekers-Wasurenai"
-					}]
+							"name": "KiteSeekers"
+						},
+						{
+							"name": "Wasurenai"
+						}
+					]
 				},
 				{
 					"status": "release",
 					"detail": [{
-						"name": "Muteki Simulcast: Funico"
+						"name": "Muteki"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Funico"
 					}]
 				}
 			]
 		},
 		{
 			"name": "Thermae Romae",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/5/35635.jpg",
 			"group": [{
 					"status": "release",
 					"detail": [{
@@ -690,20 +731,8 @@
 		},
 		{
 			"name": "Zero no Tsukaima F",
-			"image": "",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/2/75559.jpg",
 			"group": [{
-					"status": "release",
-					"detail": [{
-						"name": "Hadena"
-					}]
-				},
-				{
-					"status": "release",
-					"detail": [{
-						"name": "JC-SHiN-gx"
-					}]
-				},
-				{
 					"status": "release",
 					"detail": [{
 						"name": "Commie"
@@ -712,12 +741,100 @@
 				{
 					"status": "release",
 					"detail": [{
-						"name": "SS Simulcast: Crunchyroll"
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "JC"
+						},
+						{
+							"name": "SHiN-gx"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "SS"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
 					}]
 				}
 			]
 		}
 	],
-	"ova": [],
+	"ova": [{
+			"name": "Kyousou Giga",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/6/61947.jpg",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "Commie"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "EveTaku"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Lupin III: Chi no Kokuin - Eien no Mermaid",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/12/32929.jpg",
+			"group": [{
+				"status": "release",
+				"detail": [{
+					"name": "sage"
+				}]
+			}]
+		},
+		{
+			"name": "Recorder to Randoseru",
+			"image": "https://myanimelist.cdn-dena.com/images/anime/10/40081.jpg",
+			"group": [{
+					"status": "release",
+					"detail": [{
+						"name": "CMS"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+							"name": "CTSS"
+						},
+						{
+							"name": "STINX"
+						}
+					]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "Hadena"
+					}]
+				},
+				{
+					"status": "release",
+					"detail": [{
+						"name": "NWTC"
+					}]
+				},
+				{
+					"status": "simulcast",
+					"detail": [{
+						"name": "Crunchyroll"
+					}]
+				}
+			]
+		}
+	],
 	"movie": []
 }
