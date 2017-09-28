@@ -253,7 +253,6 @@ function buildPage(arr, type = 0) {
 }
 
 function infoKitsu(anime) {
-	//var url = "https://kitsu.io/api/17/";
 	var url = "https://kitsu.io/api/edge/";
 
 	var req = new XMLHttpRequest();
@@ -277,7 +276,9 @@ function infoKitsu(anime) {
 function addInfo(arr) {
 	removeTag('info');
 	var dataInfo = '';
-	dataInfo += '<li><a href="' + arr.links.self + '" title="' + arr.titles.en_jp + '">' + capitalizeFirstLetter(arr.titles.en_jp) + '</a></li>';
+
+	dataInfo += '<li>Number of Episode: ' + arr.attributes.episodeCount + '</li>';
+	dataInfo += '<li><a href="' + arr.links.self + '" title="' + arr.titles.en_jp + '">Kitsu URL</a></li>';
 
 	writeDataInnerHtml('info', dataInfo);
 }
