@@ -25,7 +25,7 @@ function buildHomePage(arr) {
 		dataHomePage += '<a href="' + arr[i].url + 'index.html" title="' + arr[i].title + '" >';
 		dataHomePage += '<img class="img-circle" src="' + arr[i].flag + '" alt="' + capitalizeFirstLetter(arr[i].lang) + ' flag" width="140" height="140">';
 		dataHomePage += '<h2>' + capitalizeFirstLetter(arr[i].lang) + '</h2>';
-		dataHomePage += '<p><div class="btn btn-default" title="' + arr[i].title + '" role="button">' + arr[i]["view-page"] + ' &raquo;</div></p>'; //jsonObj['md-number'] 
+		dataHomePage += '<p><div class="btn btn-default" title="' + arr[i].title + '" role="button">' + arr[i]["goto_lbl"] + ' &raquo;</div></p>'; //jsonObj['md-number'] 
 		dataHomePage += '</a>';
 		dataHomePage += '</div>';
 	}
