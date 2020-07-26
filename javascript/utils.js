@@ -3,12 +3,8 @@ function capitalizeFirstLetter(string) {
 	return string.charAt(0).toUpperCase() + string.slice(1);
 }
 
-function noSpace(string) {
-	return decodeText(string).replace(/\W/g, ''); /* https://stackoverflow.com/a/9364527 */
-}
-
 function copyToClipboard(text) {
-	window.prompt("Copy to clipboard: Ctrl+C, Enter", decodeText(text));
+	window.prompt("Copy to clipboard: Ctrl+C, Enter", decodeHTMLEntities(text));
 }
 
 function encodeText(text) {
@@ -16,7 +12,15 @@ function encodeText(text) {
 }
 
 function decodeText(text) {
-	return decodeURIComponent(text).replace(/&apos;/g, "'");
+	return decodeURIComponent(text);
+}
+
+function encodeHTMLEntities(text) {
+	return encodeText(he.encode(text));
+}
+
+function decodeHTMLEntities(text) {
+	return he.decode(decodeText(text));
 }
 
 function writeMessage(id, string) {

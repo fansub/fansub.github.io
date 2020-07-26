@@ -3,7 +3,11 @@ function infoKitsu(anime) {
 
 	let req = new XMLHttpRequest();
 	console.log('Loading data…');
-	req.open('GET', url + "anime/?page[limit]=1&filter[text]=" + anime + "&include=animeProductions.producer", true); // true for asynchronous
+	/* *
+	* use decodeHTMLEntities, as anime is transmitted 
+	* using encodeHTMLEntities in the infoKitsu function 
+	* */
+	req.open('GET', url + "anime/?page[limit]=1&filter[text]=" + encodeText(decodeHTMLEntities(anime)) + "&include=animeProductions.producer", true); // true for asynchronous
 
 	req.setRequestHeader("Accept", "application/vnd.api+json");
 	req.setRequestHeader("Content-Type", "application/vnd.api+json");
@@ -12,10 +16,7 @@ function infoKitsu(anime) {
 		if (req.readyState == 4) { // 4 == XMLHttpRequest.DONE ie8+
 			if((req.status == 200) || (req.status == 304)) {
 				let objJson = JSON.parse(req.responseText);
-				/* use decodeText, as now anime
-				 * is transmitted encoded
-				 * in the infoKitsu function */
-				addInfo(decodeText(anime), objJson);
+				addInfo(anime, objJson);
 			}
 		}
 	};
@@ -23,14 +24,14 @@ function infoKitsu(anime) {
 }
 
 function addInfo(anime, arr) {
-	removeTag('info_' + noSpace(anime));
-	let dataInfo = '';
+	removeTag('info_' + anime);
+	var dataInfo = '';
 
 	dataInfo += '<li>Number of Episodes: ' + haveTheNumberOfEpisodes(arr) + '</li>';
 	dataInfo += '<li>Premiere Date: ' + haveThePremiereDate(arr) + '</li>';
 	dataInfo += '<li>Studio: ' + haveTheStudio(arr.included) + '</li>';
 	dataInfo += '<li><a href="https://kitsu.io/anime/' + haveKitsuId(arr) + '" target="_blank" title="' + haveTheTitle(arr) + '">Kitsu.io link</a></li>';
-	writeDataInnerHtml('info_' + noSpace(anime), dataInfo);
+	writeDataInnerHtml('info_' + anime, dataInfo);
 }
 
 function haveKitsuId(arr) {
@@ -42,11 +43,11 @@ function haveTheTitle(arr) {
 }
 
 function haveTheNumberOfEpisodes(arr) {
-	return arr.data[0].attributes.episodeCount;
+	return arr.data[0].attributes.episodeCount || "?";
 }
 
 function haveThePremiereDate(arr) {
-	return arr.data[0].attributes.startDate;
+	return arr.data[0].attributes.startDate || "unknown";
 }
 
 function haveTheStudio(arr) {
@@ -62,14 +63,17 @@ function haveTheStudio(arr) {
 			break;
 		}
 	}
+	
+	if(studioID !== "") {
+		//only select where the studioID is node (but return more than 1 node)
+		let studios = getObjects(arr, 'id', studioID);
 
-	//only select where the studioID is node (but return more than 1 node)
-	let studios = getObjects(arr, 'id', studioID);
-
-	for(let studio of studios){
-		//only one node should have the attributes.name of the studio
-		if(typeof studio.attributes !== 'undefined') {
-			return studio.attributes.name;
+		for(let studio of studios){
+			//only one node should have the attributes.name of the studio
+			if(typeof studio.attributes !== 'undefined') {
+				return studio.attributes.name;
+			}
 		}
 	}
+	return "unknown";
 }
